@@ -56,7 +56,6 @@ export function GameSection({ content = defaultContent }: GameSectionProps) {
           className="w-full h-full aspect-video border-0"
           allow="fullscreen"
           title={content.gameSection.game.title}
-          loading="lazy"
         />
       </div>
 
