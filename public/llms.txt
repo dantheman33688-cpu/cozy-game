@@ -20,6 +20,7 @@ Crazy Cattle 3D is an independently developed battle royale game featuring explo
 - [Pokemon Gamma Emerald](https://crazy-cattle.net/pokemon-gamma-emerald) - A fan-made Pokemon adventure with enhanced features. Play online for free, no download required!
 - [Crazy Chicken 3D](https://crazy-cattle.net/crazy-chicken-3d) - Feathery battle royale with physics-based chicken combat. Play this free online game with no download required!
 - [Sprunki Incredibox](https://crazy-cattle.net/sprunki-incredibox) - Create amazing music beats with colorful characters in this fun interactive music game. Drag and drop to make music!
+- [Futbol Libre](https://crazy-cattle.net/futbol-libre) - Watch live football matches from around the world. Play this free online game with no download required!
 
 ## Gameplay Features
 

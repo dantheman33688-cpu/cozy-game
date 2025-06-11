@@ -19,6 +19,7 @@ Crazy Cattle 3D 是一款基于物理引擎的 3D 动作游戏，可直接在浏
 5. **[Basketball Bros Unblocked](https://crazy-cattle.net/basketball-bros-unblocked)** - 篮球动作游戏
 6. **[Pokemon Gamma Emerald](https://crazy-cattle.net/pokemon-gamma-emerald)** - 宝可梦同人增强版
 7. **[Crazy Chicken 3D](https://crazy-cattle.net/crazy-chicken-3d)** - 疯狂小鸡物理战斗游戏
+8. **[Futbol Libre](https://crazy-cattle.net/futbol-libre)** - 免费在线观看足球直播
 
 ### 主要功能
 

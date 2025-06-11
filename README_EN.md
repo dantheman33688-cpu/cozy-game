@@ -43,6 +43,7 @@ The game delivers 30-minute matches of pure explosive action, where strategic po
 6. **[Pokemon Gamma Emerald](https://crazy-cattle.net/pokemon-gamma-emerald)** - Enhanced Pokemon fan-made version
 7. **[Crazy Chicken 3D](https://crazy-cattle.net/crazy-chicken-3d)** - Crazy chicken physics battle game
 8. **[Sprunki Incredibox](https://crazy-cattle.net/sprunki-incredibox)** - Interactive music creation fan-mod game
+9. **[Futbol Libre](https://crazy-cattle.net/futbol-libre)** - Watch live football matches online for free.
 
 ### Main Features
 

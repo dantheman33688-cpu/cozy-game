@@ -92,6 +92,16 @@ Sprunki Incredibox is an innovative, free online music creation game that lets y
 
 URL: https://crazy-cattle.net/sprunki-incredibox
 
+### Futbol Libre
+Futbol Libre is a free online streaming service that provides access to live football matches from various leagues and tournaments worldwide. It offers a simple and direct way to enjoy your favorite sport without subscriptions or downloads. This version includes:
+- Live Football Matches: Watch games as they happen from around the world.
+- Wide Range of Leagues: Access to major leagues and international tournaments.
+- High-Quality Streaming: Enjoy stable and high-quality video streams.
+- User-Friendly Interface: Easily navigate and find the match you want to watch.
+- No Downloads or Subscriptions: Free and instant access to football action.
+
+URL: https://crazy-cattle.net/futbol-libre
+
 ## How To Play
 
 ### Controls

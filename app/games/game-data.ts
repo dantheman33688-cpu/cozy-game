@@ -63,6 +63,13 @@ export const games: Record<string, Game> = {
     image: "/assets/sprunki-incredibox/sprunki-incredibox.webp",
     url: "/sprunki-incredibox",
   },
+  "futbol-libre": {
+    id: "futbol-libre",
+    title: "Futbol Libre",
+    description: "Watch live football matches from around the world directly in your browser. Never miss a goal with Futbol Libre.",
+    image: "/assets/futbol-libre/futbol-libre.webp",
+    url: "/futbol-libre",
+  },
   "doodle-baseball": {
     id: "doodle-baseball",
     title: "Doodle Baseball",

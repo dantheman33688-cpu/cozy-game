@@ -50,6 +50,7 @@ export const content = {
         { text: "Basketball Bros Unblocked", href: "/basketball-bros-unblocked" },
         { text: "Pokemon Gamma Emerald", href: "/pokemon-gamma-emerald" },
         { text: "Sprunki Incredibox", href: "/sprunki-incredibox" },
+        { text: "Futbol Libre", href: "/futbol-libre" },
       ]
     },
     social: {

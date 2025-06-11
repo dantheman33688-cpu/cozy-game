@@ -38,6 +38,10 @@ const nextConfig = {
         source: '/sprunki-incredibox.embed',
         destination: '/game/sprunki-incredibox/index.html',
       },
+      {
+        source: '/futbol-libre.embed',
+        destination: '/game/futbol-libre/index.html',
+      },
     ]
   }
 };
