@@ -76,6 +76,13 @@ export const games: Record<string, Game> = {
     description: "Classic Google Doodle baseball game! Control cute food characters as batters and test your timing skills in this fun and addictive baseball experience.",
     image: "https://doodle-baseball.net/assets/doodle-baseball/doodle-baseball.webp",
     url: "https://doodle-baseball.net/",
+  },
+  "drift-boss": {
+    id: "drift-boss",
+    title: "Drift Boss",
+    description: "Play Drift Boss unblocked online for free! Test your timing and precision in this fun 3D drifting game. ",
+    image: "https://doodle-baseball.net/assets/drift-boss/drift-boss.webp",
+    url: "https://doodle-baseball.net/drift-boss",
   }
 };
 
