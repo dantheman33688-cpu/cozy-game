@@ -27,12 +27,13 @@ export const content = {
     quickLinks: {
       title: "Quick Links",
       links: [
-        { text: "Evernote", href: "https://lite.evernote.com/note/87300725-c873-8deb-1d2a-bf31aa95ac39" },
+        { text: "Telegram", href: "https://t.me/s/free_unblocked_games" },
         { text: "CAL", href: "https://cal.com/vincent-ai" },
         { text: "Patreon", href: "https://www.patreon.com/posts/play-free-crazy-130738673" },
         { text: "Linktr", href: "https://linktr.ee/vincent20250520" },
         { text: "Creem", href: "https://www.creem.io/bip/vincent-ai" },
         { text: "GetAllMyLinks", href: "https://getallmylinks.com/vincent" },
+        { text: "AllMyLinks", href: "https://allmylinks.com/vincent04065" },
         { text: "Pinterest | Crazy Cattle 3D", href: "https://www.pinterest.com/pin/581245895696208484/" },
         { text: "Pinterest | Doodle Baseball", href: "https://www.pinterest.com/pin/581245895696901681/" },
         { text: "Github | Crazy Cattle 3D", href: "https://github.com/WeiWenxing/crazycattle3d/blob/main/README_EN.md" },
