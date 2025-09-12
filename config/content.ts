@@ -37,6 +37,8 @@ export const content = {
         { text: "Pinterest | Crazy Cattle 3D", href: "https://www.pinterest.com/pin/581245895696208484/" },
         { text: "Pinterest | Doodle Baseball", href: "https://www.pinterest.com/pin/581245895696901681/" },
         { text: "Github | Crazy Cattle 3D", href: "https://github.com/WeiWenxing/crazycattle3d/blob/main/README_EN.md" },
+        { text: "H5 Joy Games", href: "https://h5joy.org" },
+        { text: "Shootz Game", href: "https://shootz.net" },
       ]
     },
     games: {  // 添加 games section
