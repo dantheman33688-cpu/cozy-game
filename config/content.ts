@@ -27,8 +27,7 @@ export const content = {
     quickLinks: {
       title: "Quick Links",
       links: [
-        { text: "Telegram", href: "https://t.me/s/free_unblocked_games" },
-        { text: "CAL", href: "https://cal.com/vincent-ai" },
+        { text: "Linktr", href: "https://linktr.ee/KnitOut" },
       ]
     },
     games: {  // 添加 games section
