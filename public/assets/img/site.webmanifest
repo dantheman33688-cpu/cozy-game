@@ -1,6 +1,6 @@
 {
-    "name": "Crazy Cattle 3D",
-    "short_name": "Craze3D",
+    "name": "My Perfect Hotel",
+    "short_name": "MyPerfectHotel",
     "icons": [
       {
         "src": "/assets/img/android-chrome-192x192.png",
@@ -13,7 +13,7 @@
         "type": "image/png"
       }
     ],
-    "start_url": "https://crazy-cattle.net",
+    "start_url": "https://www.cozygame.net",
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
     "display": "standalone"

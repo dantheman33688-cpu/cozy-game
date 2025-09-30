@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <base href="/game/basketball-bros-unblocked/">
+    <base href="/game/idle-lumber-inc/">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0">
-    <title>Basketball Bros Unblocked</title>
+    <title>Idle Lumber Inc.</title>
     <meta name="robots" content="noindex">
     <style>
         html, body {
@@ -53,7 +53,7 @@
         .gamePlayerBgImage {
             width: 100%;
             height: 100%;
-            background-image: url('/assets/basketball-bros-unblocked/basketball-bros-unblocked.png'); /* Updated */
+            background-image: url('/assets/idle-lumber-inc/Idle-lumber-Inc.png');
             background-size: cover;
             background-position: center;
             filter: blur(3px) brightness(0.7);
@@ -63,6 +63,7 @@
             text-align: center;
             color: white;
         }
+        /* .gamePlayerThumb CSS removed as the element is no longer used */
 
         @keyframes breathingEffect {
             0% {
@@ -81,34 +82,35 @@
 
         .gamePlayerPrerollCTA {
             cursor: pointer;
-            background: linear-gradient(to right, #EE7752, #E73C7E, #23A6D5, #23D5AB);
-            background: linear-gradient(to right, #F57F17, #D81B60, #8E24AA); /* Matching Brainrot Clicker */
+            background: linear-gradient(to right, #EE7752, #E73C7E, #23A6D5, #23D5AB); /* Example gradient, adjust to match image */
+            /* A gradient closer to the image: Orange -> Pink -> Purple */
+            background: linear-gradient(to right, #F57F17, #D81B60, #8E24AA);
             color: white;
-            padding: 15px 30px;
-            border-radius: 50px;
-            font-size: 20px;
+            padding: 15px 30px; /* Slightly larger padding */
+            border-radius: 50px; /* Fully rounded for pill shape */
+            font-size: 20px;   /* Slightly larger font */
             font-weight: bold;
             display: inline-flex;
             align-items: center;
             text-decoration: none;
             border: none;
-            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Initial shadow */
             transition: transform 0.2s ease-out, box-shadow 0.2s ease-out;
             animation: breathingEffect 2.5s ease-in-out infinite;
             z-index: 1000;
         }
         .gamePlayerPrerollCTA:hover {
-            transform: scale(1.03);
+            transform: scale(1.03); /* Slight scale up on hover, no longer changing bg color */
             box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
         }
-        .gamePlayerPrerollCTA span {
+        .gamePlayerPrerollCTA span { /* Ensure span also behaves with flex for icon alignment */
             display: inline-flex;
             align-items: center;
         }
         .gamePlayerPrerollCTA svg {
-            width: 24px;
+            width: 24px; /* SVG size */
             height: 24px;
-            margin-left: 12px;
+            margin-left: 12px; /* Space between text and icon */
         }
 
     </style>
@@ -143,10 +145,10 @@
     <iframe
         id="game-iframe"
         class="gamePlayerHidden"
-        src="https://basketbros.io/" 
+        src="https://g.igroutka.ru/games/17/qPGZvCNuiysorzHD/idle_lumber_inc1/"
         allowfullscreen="true"
         allow="autoplay; fullscreen; gamepad; keyboard-map; xr-spatial-tracking"
-        title="Basketball Bros Unblocked">
+        title="Idle Lumber Inc.">
     </iframe>
 
     <script>
@@ -161,8 +163,18 @@
             var gameIframe = document.getElementById('game-iframe');
             if (gameIframe) {
                 gameIframe.classList.remove('gamePlayerHidden');
+                // Optional: Focus the iframe if needed, though this can be tricky
+                // gameIframe.focus();
             }
+
+            // Here you would typically trigger ad display if 'showAFG' was for ads.
+            // For this example, we are just showing the game.
         }
     </script>
 </body>
 </html>
+
+
+
+
+

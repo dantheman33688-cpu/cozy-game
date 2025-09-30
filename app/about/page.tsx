@@ -25,14 +25,14 @@ const AboutPage = () => {
                 We are a small, dedicated team of game developers, designers, and enthusiasts who love creating unique and memorable gaming moments. Our journey started with a simple idea: to make games that we ourselves would love to play and share with the world. {siteConfig.name} is the culmination of our passion and hard work.
               </p>
               <p className="mt-4">
-                While we started with the chaotic fun of physics-based games like Crazy Cattle 3D, we are always exploring new genres and ideas to expand our collection and offer a diverse range of entertainment.
+                While we started with the chaotic fun of physics-based games like Cozy Games, we are always exploring new genres and ideas to expand our collection and offer a diverse range of entertainment.
               </p>
             </section>
 
             <section>
               <h2 className="text-2xl font-semibold mb-3">Our Games</h2>
               <p>
-                From the explosive sheep battles in Crazy Cattle 3D to the hilarious antics of Crazy Cow 3D and the cheesy knockouts in Cheese Chompers 3D, we strive to deliver quality and fun. Each game is crafted with care, focusing on unique gameplay mechanics and endless replayability. We are constantly working on new titles and updates to existing games based on player feedback and our creative vision.
+                From the explosive sheep battles in Cozy Games to the hilarious antics of Crazy Cow 3D and the cheesy knockouts in Cheese Chompers 3D, we strive to deliver quality and fun. Each game is crafted with care, focusing on unique gameplay mechanics and endless replayability. We are constantly working on new titles and updates to existing games based on player feedback and our creative vision.
               </p>
             </section>
             
@@ -46,7 +46,7 @@ const AboutPage = () => {
             <section>
               <h2 className="text-2xl font-semibold mb-3">Contact Us</h2>
               <p>
-                Have questions, feedback, or just want to say hello? We'd love to hear from you!
+                Have questions, feedback, or just want to say hello? We&rsquo;d love to hear from you!
               </p>
               <p className="mt-2">
                 You can reach us by email at: <a href={`mailto:${siteConfig.email}`} className="text-primary hover:underline">{siteConfig.email}</a>

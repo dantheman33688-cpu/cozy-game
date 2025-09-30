@@ -29,39 +29,19 @@ export const content = {
       links: [
         { text: "Telegram", href: "https://t.me/s/free_unblocked_games" },
         { text: "CAL", href: "https://cal.com/vincent-ai" },
-        { text: "Patreon", href: "https://www.patreon.com/posts/play-free-crazy-130738673" },
-        { text: "Linktr", href: "https://linktr.ee/vincent20250520" },
-        { text: "Creem", href: "https://www.creem.io/bip/vincent-ai" },
-        { text: "GetAllMyLinks", href: "https://getallmylinks.com/vincent" },
-        { text: "AllMyLinks", href: "https://allmylinks.com/vincent04065" },
-        { text: "Pinterest | Crazy Cattle 3D", href: "https://www.pinterest.com/pin/581245895696208484/" },
-        { text: "Pinterest | Doodle Baseball", href: "https://www.pinterest.com/pin/581245895696901681/" },
-        { text: "Github | Crazy Cattle 3D", href: "https://github.com/WeiWenxing/crazycattle3d/blob/main/README_EN.md" },
-        { text: "H5 Joy Games", href: "https://h5joy.org" },
-        { text: "Shootz Game", href: "https://shootz.net" },
       ]
     },
     games: {  // 添加 games section
       title: "Games",
       links: [
-        { text: "Crazy Cattle 3D", href: "/" },
-        { text: "Crazy Cow 3D", href: "/crazy-cow-3d" },
-        { text: "Crazy Chicken 3D", href: "/crazy-chicken-3d" },
-        { text: "Cheese Chompers 3D", href: "/cheese-chompers-3d" },
-        { text: "Italian Brainrot Clicker", href: "/brainrot-clicker" },
-        { text: "Basketball Bros Unblocked", href: "/basketball-bros-unblocked" },
-        { text: "Pokemon Gamma Emerald", href: "/pokemon-gamma-emerald" },
-        { text: "Sprunki Incredibox", href: "/sprunki-incredibox" },
-        { text: "Futbol Libre", href: "/futbol-libre" },
+        { text: "My Perfect Hotel", href: "/" },
+        { text: "Idle Lumber Inc", href: "/idle-lumber-inc" },
+       
       ]
     },
     social: {
       title: "Share",
       links: [
-        {
-          icon: "Facebook",
-          href: `https://www.facebook.com/sharer.php?t=${encodeURIComponent(siteConfig.name)}&u=${encodeURIComponent(siteConfig.url)}`
-        },
         {
           icon: "Twitter",
           href: `https://twitter.com/intent/tweet?text=${encodeURIComponent(siteConfig.name)}&url=${encodeURIComponent(siteConfig.url)}&hashtags=${siteConfig.social.twitter},Games`
@@ -78,22 +58,22 @@ export const content = {
       ]
     },
     copyright: {
-      text: "© {year} Crazy Cattle 3D. All rights reserved.",
+      text: "© {year} Cozy Games. All rights reserved.",
       subText: "All games on this platform are free to play and do not require downloads."
     }
   },
   rating: {
-    title: "Rate CrazyCattle3D",
+    title: "Rate My Perfect Hotel",
     votes: "votes",
     initialRating: 4.8,
     initialVotes: 146
   },
   gameSection: {
-    title: "Crazy Cattle 3D",
+    title: "My Perfect Hotel",
     game: {
-      url: '/crazy-cattle-3d.embed',
-      title: "crazycattle3d",
-      externalUrl: '/game/crazycattle3d/index.html'
+      url: 'https://gamesfreez.github.io/my-perfect-hotel/',
+      title: "My Perfect Hotel",
+      externalUrl: '/game/my-perfect-hotel/index.html'
     }
   },
   otherGames: {
@@ -102,113 +82,85 @@ export const content = {
       playButton: "Play Now",
     }
   },
-  howToPlay: {
-    // Added "Online Free", "Play"
-    title: "How to Play Crazy Cattle 3D Online Free - Game Controls & Guide",
-    // Added "unblocked", "play this free game"
-    description: "Playing Crazy Cattle 3D online unblocked is easy: Use WASD keys for movement and mouse for precise sheep steering when you play this free browser game. The space bar triggers your special collision ability in Crazy Cattle 3D - master the timing for devastating impacts. Perfect your control over the sheep's momentum as you navigate through the 3D battle arena.\n\n" +
-      // Added "online game"
-      "Success in Crazy Cattle 3D multiplayer battles depends on mastering the physics-based momentum system in this online game. Strategically build speed by moving downhill in the 3D arena, then unleash powerful attacks or execute quick escapes. Crazy Cattle 3D's unique collision mechanics reward skillful timing - precisely angled hits send opponents flying off the map, while mistimed attacks leave your sheep exposed.\n\n" +
-      // Added "play", "free online game"
-      "Win more Crazy Cattle 3D matches by starting defensively - focus on survival and strategic positioning. Study each arena's layout to discover prime attack positions and danger zones. After defeats when you play Crazy Cattle 3D, spectate top players to learn pro techniques. Keep practicing this free online physics game, and you'll soon master the art of sheep combat!",
-    // Image path unchanged
-    image: "/assets/crazycattle3d-howto.jpg",
-    // Added "Play Online Unblocked"
-    imageAlt: "Crazy Cattle 3D Game Guide - Play Online Unblocked, Controls, Physics, and Strategy Tutorial"
-  },
-  whatIs: {
-    // Added "Play Game Online Free"
-    title: "Everything about Crazy Cattle 3D - Play Game Online Free",
-    // Added "free online game", "unblocked"
-    description: "Crazy Cattle 3D is an independently developed free online battle royale game where players control explosive sheep across varied terrain. You can play this game unblocked anytime. Unlike traditional battle royales, we focus on physics-based gameplay with momentum and collision mechanics rather than weapon collection.\n\n" +
-      // Added "online game"
-      "Master the art of sheep locomotion across three distinct environments in this exciting online game: the rolling hills of Ireland, volcanic Iceland, and mountainous New Zealand. Each map offers unique strategic opportunities, creating a chaotic yet strategic 30-minute battle experience.\n\n" +
-      // Added "play this free online game", "unblocked"
-      "While the game's high difficulty level may challenge newcomers, mastering our unique physics system delivers a deeply satisfying experience. Play this free online game directly in your browser unblocked - no downloads needed, just pure explosive sheep action that keeps you coming back for more.",
-    logo: {
-      // Image path unchanged
-      src: "/assets/img/android-chrome-512x512.png",
-      // Added "Free Online Unblocked Game"
-      alt: "Crazy Cattle 3D - Free Online Unblocked Game Logo"
+    howToPlay: {
+      title: "How to Play My Perfect Hotel Online Free - Management Strategy & Controls",
+      description: "Playing My Perfect Hotel online free is straightforward: Use mouse clicks on desktop or touch controls on mobile devices to manage hotel operations. Master the core gameplay loop of guest check-ins, revenue collection, room maintenance, and strategic expansion to maximize profits.\n\n" +
+        "Success in this hotel simulation game depends on efficient time and resource management. Prioritize upgrading receptionists first to accelerate cash flow, then hire cleaners to maintain room hygiene and customer satisfaction. Complete daily tasks consistently and utilize reward ads to quickly accumulate starting funds and resources for faster progression.\n\n" +
+        "Win more profits by focusing on long-term room upgrades, which directly increase rental prices and guest tips. Study your hotel layout to optimize room placement and amenity positioning for better operational efficiency. Keep practicing this free online management game, and you'll soon master the art of hotel profitability!",
+      image: "/assets/my-perfect-hotel/my-perfect-hotel.png",
+      imageAlt: "My Perfect Hotel Game Guide - Play Free Online, Controls, Strategy, and Management Tutorial"
+    },
+    whatIs: {
+      title: "Everything about My Perfect Hotel - Play This Free Simulation Game Online",
+      description: "My Perfect Hotel is a strategic simulation game developed by SayGames where players manage and upgrade their hotel to maximize profits, ensure customer satisfaction, and enhance employee efficiency. You can play this free online game on Poki across multiple platforms including desktop, mobile, and tablet devices.\n\n" +
+        "Master the art of hotel management through three core pillars: time management to prioritize guest needs and staff tasks, resource management to wisely invest in upgrades and hiring, and strategic planning to optimize hotel layout and expansion. The game features a realistic business simulation where every task contributes to your revenue stream.\n\n" +
+        "While the game's economic management may challenge newcomers, mastering the upgrade system and employee efficiency delivers a deeply satisfying experience. Play this free online simulation game directly in your browser - no downloads needed, just pure hotel management action that keeps you engaged for hours.",
+      logo: {
+        src: "/assets/my-perfect-hotel/my-perfect-hotel-logo.webp",
+        alt: "My Perfect Hotel - Free Online Simulation Game Logo"
+      }
+    },
+    faq: {
+      title: "Frequently Asked Questions - My Perfect Hotel Online Game",
+      items: [
+        {
+          value: "where-to-play-free",
+          question: "Where can I play My Perfect Hotel for free online?",
+          answer: "My Perfect Hotel is available to play for free on Poki and other online gaming platforms. The game supports multiple platforms including desktop computers, mobile devices, and tablets, allowing you to play this simulation game anytime, anywhere without downloads."
+        },
+        {
+          value: "game-controls-mobile-desktop",
+          question: "What controls are supported when I play My Perfect Hotel?",
+          answer: "On desktop versions, you can use your mouse to interact with guests and rooms. Mobile and tablet versions support touch controls, allowing you to drag and click with your finger. Some versions also support keyboard arrows or WASD keys for navigation around the hotel."
+        },
+        {
+          value: "developer-info",
+          question: "Who developed the My Perfect Hotel game?",
+          answer: "My Perfect Hotel was developed by SayGames, a prominent game development company known for creating engaging mobile and online games. The game is available through various platforms including Poki, where you can play this free hotel management simulation."
+        },
+        {
+          value: "upgrade-priority",
+          question: "What should I upgrade first in My Perfect Hotel?",
+          answer: "The optimal upgrade path starts with receptionists to speed up check-ins and improve cash flow. Next, hire cleaners to maintain room hygiene and boost customer satisfaction. Finally, focus on room upgrades for long-term income growth. This strategy ensures maximum profit generation when you play this free online game."
+        },
+        {
+          value: "employee-roles",
+          question: "What are the main employee roles and their impacts?",
+          answer: "Receptionists handle guest check-ins and payments - their efficiency directly impacts cash flow. Cleaners maintain room hygiene - crucial for guest satisfaction and tips. Servers deliver food and services - they increase additional revenue through tips. Upgrade each employee type to improve their work speed and effectiveness in this free simulation game."
+        },
+        {
+          value: "daily-tasks-importance",
+          question: "How important are daily tasks in My Perfect Hotel?",
+          answer: "Daily tasks are essential for maintaining hotel profitability. Each completed task contributes to your revenue stream. The manager's daily checklist includes customer flow management, revenue generation, maintenance activities, and expansion planning. Consistent completion of these tasks is key to success when you play this free online management game."
+        },
+        {
+          value: "profit-maximization",
+          question: "What's the best strategy to maximize profits?",
+          answer: "Focus on the three management skills: time management to prioritize tasks, resource management to invest wisely in upgrades, and strategic planning to optimize hotel layout. Use reward ads to accelerate starting funds, and always balance short-term cash flow improvements with long-term room upgrades for sustained profit growth."
+        }
+      ]
+    },
+    features: {
+      title: "Key Features of My Perfect Hotel - Play Free Online Simulation Game",
+      items: [
+        {
+          title: "Strategic Hotel Management Core",
+          description: "My Perfect Hotel introduces a comprehensive management system where every task generates revenue. Master the daily checklist including guest check-ins, payment collection, room maintenance, and strategic expansion. The game's economic simulation provides authentic business challenges that require careful planning and execution for success when you play this free online game."
+        },
+        {
+          title: "Three Pillars Management System",
+          description: "Experience unique skill-based gameplay through three essential management pillars: time management to efficiently handle guest needs and staff tasks, resource management to make smart investment decisions, and strategic planning to optimize hotel layout and expansion. This triple-focus system creates depth and replayability in this free simulation game."
+        },
+        {
+          title: "Progressive Upgrade Path",
+          description: "My Perfect Hotel features a carefully balanced upgrade system that rewards strategic thinking. Follow the optimal path from receptionist upgrades to cleaner hiring and room improvements. Each upgrade directly impacts your hotel's profitability and customer satisfaction, creating a satisfying progression system that keeps you engaged when you play this free online game."
+        },
+        {
+          title: "Employee Efficiency Optimization",
+          description: "Manage diverse staff roles including receptionists, cleaners, and servers, each with specific impacts on hotel operations. Improve employee efficiency through upgrades and training investments. The game's workforce management system adds realistic business challenges that differentiate this simulation from simpler hotel games available online for free."
+        }
+      ]
     }
-  },
-  faq: {
-    // Title already well-optimized
-    title: "Frequently Asked Questions - Crazy Cattle 3D Online Game",
-    items: [
-      {
-        value: "where-to-play-original", // New item based on PAA
-        question: "Where can I find and play the original Crazy Cattle 3D online?",
-        answer: "The original Crazy Cattle 3D game can officially be found on itch.io. However, you can also play Crazy Cattle 3D unblocked on various free online games websites that host web-based versions. This allows you to play the game directly in your browser on Windows, Mac, Linux, and other web-supported environments."
-      },
-      {
-        value: "play-on-mobile", // New item based on PAA
-        question: "Can I play Crazy Cattle 3D online on my mobile device?",
-        answer: "Yes, since Crazy Cattle 3D is available in web-based environments (as a browser game), you can often play this free online game on mobile devices (phones and tablets) that support modern web browsers. Look for unblocked versions to play the game on the go."
-      },
-      {
-        value: "creator-info", // New item based on PAA
-        question: "Who is the creator of the Crazy Cattle 3D game?",
-        answer: "Currently, little is publicly known about the specific original creator or development team behind the Crazy Cattle 3D game. Most assets appear to be original works. Many players enjoy playing this free online game for its unique physics and fun regardless!"
-      },
-      {
-        value: "game-rating", // New item based on PAA
-        question: "What is the rating for the Crazy Cattle 3D online game?",
-        answer: "There isn't a single official 'rating' (like ESRB) for Crazy Cattle 3D, as it's often found on various platforms and unblocked games sites. However, it's widely regarded as a fun, chaotic, and engaging free online physics game. You can find player opinions and community feedback on sites where you play the game."
-      },
-      {
-        value: "new-player-difficulty", // Adjusted existing item's value for clarity
-        question: "How difficult is the Crazy Cattle 3D online game for new players?",
-        answer: "Crazy Cattle 3D is designed with an intuitive physics-based control system that's easy to grasp but challenging to master. The game starts with basic movement mechanics, allowing new players to enjoy immediate action while gradually discovering advanced techniques when you play this free game. Our tutorial mode helps you understand momentum-based gameplay, and the forgiving respawn system encourages experimentation without frustration."
-      },
-      {
-        value: "technical-requirements-online", // Adjusted existing item's value
-        question: "What are the technical requirements to play Crazy Cattle 3D online smoothly?",
-        answer: "To best play Crazy Cattle 3D online for free and unblocked, we recommend using a modern browser (Chrome, Firefox, or Edge) and a stable internet connection. The game's physics engine is optimized to run smoothly on most devices, but for best performance, ensure your device has at least 4GB RAM and updated graphics drivers. If you experience any slowdown, try adjusting the quality settings in the game menu when you play this online game."
-      },
-      {
-        value: "available-game-modes", // Adjusted existing item's value
-        question: "What game modes are available when you play Crazy Cattle 3D online?",
-        answer: "Crazy Cattle 3D currently features an exciting single-player arena mode in this free online game where you compete against intelligent AI opponents. Each match offers a unique experience thanks to our dynamic physics system and varied arena layouts. Practice mode lets you perfect your skills without pressure, while Challenge mode puts your abilities to the test with increasingly difficult scenarios and objectives. Many play these game modes unblocked."
-      },
-      {
-        value: "comfort-settings-online-game", // Adjusted existing item's value
-        question: "How can I adjust Crazy Cattle 3D for a more comfortable online gaming experience?",
-        answer: "Crazy Cattle 3D includes several comfort options to enhance your free online game experience. You can adjust camera sensitivity, enable smooth camera transitions, and customize control responsiveness. We recommend starting with default settings and gradually adjusting them to match your play style. The game also features visual indicators for better spatial awareness during intense physics-based battles when you play this game."
-      },
-      {
-        value: "winning-tactics-game", // Adjusted existing item's value
-        question: "What tactics help secure victories when I play the Crazy Cattle 3D game?",
-        answer: "Mastering the Crazy Cattle 3D online game requires understanding of momentum and timing. Start by learning the arena layouts and identifying high-ground advantages. Use the environment to build speed, and practice the signature 'bounce boost' technique for quick escapes. Advanced players can master the 'precision impact' strategy, where carefully timed collisions can send opponents off balance. Remember, strategic positioning often matters more than aggressive charging in this free unblocked game."
-      }
-    ]
-  },
-  features: {
-    // Title already has "Online Game", added "Play Free"
-    title: "Revolutionary Features of Crazy Cattle 3D - Play Free Online Game",
-    items: [
-      {
-        title: "Advanced Physics Engine",
-        // Added "play this free game"
-        description: "Crazy Cattle 3D introduces a groundbreaking physics engine specifically designed for authentic cattle movement. Every animal responds realistically to environmental factors, creating dynamic and unpredictable gameplay moments when you play this free game. The physics system in Crazy Cattle 3D ensures precise collision detection, allowing players to execute tactical maneuvers like momentum-based attacks and strategic dodges. Whether you're performing a calculated aerial assault or narrowly escaping elimination, our physics engine delivers consistently engaging combat scenarios."
-      },
-      {
-        title: "Global Battle Environments",
-        // Added "unblocked online game"
-        description: "Explore Crazy Cattle 3D's three meticulously crafted battle arenas: Ireland's rolling hills perfect for building momentum and executing aerial strikes, Iceland's treacherous volcanic terrain offering tactical hazard zones, and New Zealand's mountainous landscape enabling vertical combat strategies. Each environment in this unblocked online game features carefully balanced power-up locations and strategic choke points. The diverse landscapes of Crazy Cattle 3D fundamentally change how you approach combat and survival, ensuring every match brings fresh tactical challenges."
-      },
-      {
-        title: "Pure Skill-Based Combat",
-        // Added "play Crazy Cattle 3D online free"
-        description: "Crazy Cattle 3D sets itself apart with a pure skill-based progression system - no paid advantages, just pure tactical gameplay when you play Crazy Cattle 3D online free. Master the physics-based combat where perfectly timed collisions send opponents flying off the map. Our carefully tuned difficulty curve ensures new players can learn the basics while veterans discover advanced techniques. The competitive spirit of Crazy Cattle 3D shines through as top players showcase incredible movement mastery and strategic thinking."
-      },
-      {
-        title: "Battle Royale Innovation",
-        // Added "free to play online game"
-        description: "Experience Crazy Cattle 3D's unique take on the battle royale format, where physics-based combat meets strategic gameplay. Each 30-minute match features a dynamically shrinking arena that forces tactical confrontations. The streamlined gameplay loop makes Crazy Cattle 3D easy to understand but challenging to master, delivering consistent excitement from start to finish in this free to play online game. Rise through the ranks based purely on your skill and strategic prowess."
-      }
-    ]
-  }
 } as const;
 
 

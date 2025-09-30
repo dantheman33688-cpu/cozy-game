@@ -29,7 +29,7 @@ const TermsOfService = () => {
                 <li>Use the materials for any commercial purpose</li>
                 <li>Attempt to decompile or reverse engineer any software contained on the website</li>
                 <li>Remove any copyright or other proprietary notations from the materials</li>
-                <li>Transfer the materials to another person or "mirror" the materials on any other server</li>
+                <li>Transfer the materials to another person or &quot;mirror&quot; the materials on any other server</li>
               </ul>
             </section>
 
@@ -42,14 +42,14 @@ const TermsOfService = () => {
                 <li>Attempt to gain unauthorized access to any portion of the Service</li>
                 <li>Use the Service for any unlawful purpose</li>
                 <li>Harass, abuse, or harm another person</li>
-                <li>Use another user's account without permission</li>
+                <li>Use another user&rsquo;s account without permission</li>
               </ul>
             </section>
 
             <section>
               <h2 className="text-2xl font-semibold mb-3">4. Disclaimer</h2>
               <p>
-                The materials on our website are provided on an 'as is' basis. We make no warranties, expressed or implied, and hereby disclaim and negate all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
+                The materials on our website are provided on an &quot;as is&quot; basis. We make no warranties, expressed or implied, and hereby disclaim and negate all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
               </p>
             </section>
 
@@ -70,7 +70,7 @@ const TermsOfService = () => {
             <section>
               <h2 className="text-2xl font-semibold mb-3">7. Links</h2>
               <p>
-                We have not reviewed all of the sites linked to our website and are not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by us of the site. Use of any such linked website is at the user's own risk.
+                We have not reviewed all of the sites linked to our website and are not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by us of the site. Use of any such linked website is at the user&rsquo;s own risk.
               </p>
             </section>
 
@@ -94,7 +94,7 @@ const TermsOfService = () => {
                 If you have any questions about these Terms of Service, please contact us:
               </p>
               <p className="mt-2">
-                By email: support@crazy-cattle.net
+                By email: support@causalzap.com
               </p>
             </section>
           </div>

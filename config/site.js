@@ -1,16 +1,15 @@
 export const siteConfig = {
-  name: "Crazy Cattle 3D",
-  description: "Play Crazy Cattle 3D unblocked online for free. Control crazy cattle in this 3D action game. No download required, start playing instantly in your browser!",
-  domain: "crazy-cattle.net",
-  url: "https://crazy-cattle.net",
-  email: "support@crazy-cattle.net",
-  author: "Crazy Cattle 3D",
+  name: "Cozy Game",
+  description: "Play Cozy Games unblocked online for free. Control crazy cattle in this 3D action game. No download required, start playing instantly in your browser!",
+  domain: "cozygame.com",
+  url: "https://www.cozygame.net",
+  email: "support@causalzap.com",
+  author: "Cozy Games",
   social: {
-    twitter: "CrazyCattle",
-    facebook: "CrazyCattle",
+    twitter: "CozyGame",
+    facebook: "CozyGame",
   },
   metadata: {
-    keywords: ["crazy cattle", "3d game", "online game", "free game"],
     themeColor: "#ffffff",
     manifestPath: "/assets/img/site.webmanifest",
   },
@@ -22,6 +21,6 @@ export const siteConfig = {
       apple: "/assets/img/apple-touch-icon.png",
       // safari: "/assets/img/safari-pinned-tab.svg",
     },
-    og: "/assets/img/crazy-cattle-3d-og-image.png",
+    og: "/assets/img/my-perfect-hotel-og-image.png",
   },
 };

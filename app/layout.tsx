@@ -8,10 +8,10 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
-  title: `${siteConfig.name} | Unblocked Free Game | ${siteConfig.domain}`,
+  title: `Play Cozy Games Free Online | ${siteConfig.name} - No Download HTML5`,
   description: siteConfig.description,
   openGraph: {
-    title: `${siteConfig.name} Unblocked | Play Free Game | ${siteConfig.domain}`,
+    title: `Best Cozy Games: Play Free Online | No Download, No Sign-up`,
     description: siteConfig.description,
     type: 'website',
     url: siteConfig.url,
@@ -19,15 +19,15 @@ export const metadata: Metadata = {
     images: [
       {
         url: siteConfig.images.og,
-        alt: `${siteConfig.name} Screenshot`,
+        alt: `${siteConfig.name} Screenshot - Free Cozy Games Screenshot`,
       }
     ],
     locale: 'en_US',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Crazy Cattle 3D - Free Online Game',
-    description: 'Play free online game without download at Crazy Cattle 3D',
+    title: 'Cozy Games - Play Free Online HTML5 Games',
+    description: 'Play free, relaxing Cozy Games online without downloads at ${siteConfig.name}.',
     images: [siteConfig.images.og],  // 添加 Twitter 卡片图片
   },
   robots: {

@@ -84,7 +84,7 @@ const PrivacyPolicy = () => {
             </section>
 
             <section>
-              <h2 className="text-2xl font-semibold mb-3">7. Children's Privacy</h2>
+              <h2 className="text-2xl font-semibold mb-3">7. Children&rsquo;s Privacy</h2>
               <p>
                 Our service is intended for general audiences and does not knowingly collect personal information from children under 13 years of age. If you are a parent or guardian and you are aware that your child has provided us with personal data, please contact us.
               </p>
@@ -103,7 +103,7 @@ const PrivacyPolicy = () => {
                 If you have any questions about this Privacy Policy, please contact us:
               </p>
               <p className="mt-2">
-                By email: support@crazy-cattle.net
+                By email: support@causalzap.com
               </p>
             </section>
           </div>
