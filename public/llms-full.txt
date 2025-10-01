@@ -36,6 +36,16 @@ This is an engaging idle incremental game that challenges you to build and manag
 
 URL: https://www.cozygame.net/idle-lumber-inc
 
+### Cat Coffee Shop (Idle Tycoon & Resource Management)
+This is a charming and relaxing idle incremental game that challenges you to build and manage an automated cat coffee empire. The game centers on strategically upgrading your equipment and recruiting assistants to achieve maximum passive service efficiency.
+
+Core Gameplay: Balance the flow of service by upgrading coffee machines and recruiting staff to continuously expand your cozy cafe.
+
+Key Features: Emphasizes automation and customer service planning, requiring minimal active operation once assistants are hired, making it perfect for unwinding.
+
+Experience: Offers satisfying long-term progression and a low-pressure simulation set in an adorable feline world.
+
+URL: https://www.cozygame.net/cat-coffee-shop
 
 ## How To Play
 

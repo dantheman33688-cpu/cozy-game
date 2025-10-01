@@ -21,6 +21,13 @@ export const games: Record<string, Game> = {
     image: "/assets/idle-lumber-inc/Idle-lumber-Inc.png",
     url: "/idle-lumber-inc",
   },
+  "cat-coffee-shop": {
+  id: "cat-coffee-shop",
+  title: "Cat Coffee Shop",
+  description: "Run your own cozy café with cute cats! Manage drinks, hire assistants, and expand your cat café in this relaxing idle management game.",
+  image: "/assets/cat-coffee-shop/cat-cofee-shop-cozygame-logo.webp",
+  url: "/cat-coffee-shop"
+  }
 };
 
 // 获取其他游戏列表

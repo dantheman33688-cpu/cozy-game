@@ -14,6 +14,10 @@ const nextConfig = {
         source: '/idle_lumber_inc',
         destination: '/game/idle-lumber-inc/index.html',
       },
+      {
+        source: '/cat-coffee-shop',
+        destination: '/game/cat-coffee-shop/index.html',
+      },
     ]
   }
 };
