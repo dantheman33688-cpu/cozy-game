@@ -27,6 +27,13 @@ export const games: Record<string, Game> = {
   description: "Run your own cozy café with cute cats! Manage drinks, hire assistants, and expand your cat café in this relaxing idle management game.",
   image: "/assets/cat-coffee-shop/cat-cofee-shop-cozygame-logo.webp",
   url: "/cat-coffee-shop"
+  },
+  "little-farm-clicker": {
+  id: "little-farm-clicker",
+  title: "Little Farm Clicker",
+  description: "Build your dream farm from the ground up! Plant crops, raise adorable animals, hire workers, and harvest goods in this addictive idle farming clicker.",
+  image: "/assets/little-farm-clicker/little-farm-clicker-logo.png",
+  url: "/little-farm-clicker"
   }
 };
 

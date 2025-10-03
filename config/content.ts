@@ -35,6 +35,8 @@ export const content = {
       links: [
         { text: "My Perfect Hotel", href: "/" },
         { text: "Idle Lumber Inc", href: "/idle-lumber-inc" },
+        { text: "Cat Coffee Shop", href: "/cat-coffee-shop" },
+        { text: "Little Farm Clicker", href: "/little-farm-clicker" },
        
       ]
     },

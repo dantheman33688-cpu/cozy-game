@@ -18,6 +18,10 @@ const nextConfig = {
         source: '/cat-coffee-shop',
         destination: '/game/cat-coffee-shop/index.html',
       },
+      {
+        source: '/little-farm-clicker',
+        destination: '/game/little-farm-clicker/index.html',
+      },
     ]
   }
 };
