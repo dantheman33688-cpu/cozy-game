@@ -37,7 +37,7 @@ export const content = {
         { text: "Idle Lumber Inc", href: "/idle-lumber-inc" },
         { text: "Cat Coffee Shop", href: "/cat-coffee-shop" },
         { text: "Little Farm Clicker", href: "/little-farm-clicker" },
-       
+        { text: "Monkey Mart", href: "/monkey-mart" },
       ]
     },
     social: {

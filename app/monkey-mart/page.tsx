@@ -174,7 +174,7 @@ const gameConfig: GameConfig = {
     gameSection: {
       title: "Monkey Mart",
       game: {
-        url: "https://ubg235.poki.com",
+        url: "https://papasgames3d.com/MonkeyMart/",
         title: "Monkey Mart",
         externalUrl: "/monkey-mart/index.html",
       },
@@ -225,7 +225,7 @@ const gameConfig: GameConfig = {
 
 export default function MonkeyMartPage() {
   return (
-    <div className="min-h-screen bg-gradient-to-b from-green-50 to-emerald-50">
+    <div className="min-h-screen bg-gradient-to-b from-white-50 to-emerald-50">
       <Header />
       
       <div className="container mx-auto px-4 py-8">

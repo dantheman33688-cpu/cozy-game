@@ -22,6 +22,10 @@ const nextConfig = {
         source: '/little-farm-clicker',
         destination: '/game/little-farm-clicker/index.html',
       },
+      {
+        source: '/monkey-mart',
+        destination: '/game/monkey-mart/index.html',
+      }
     ]
   }
 };

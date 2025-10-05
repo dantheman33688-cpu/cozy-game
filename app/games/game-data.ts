@@ -28,12 +28,12 @@ export const games: Record<string, Game> = {
   image: "/assets/cat-coffee-shop/cat-cofee-shop-cozygame-logo.webp",
   url: "/cat-coffee-shop"
   },
-  "little-farm-clicker": {
-  id: "little-farm-clicker",
-  title: "Little Farm Clicker",
-  description: "Build your dream farm from the ground up! Plant crops, raise adorable animals, hire workers, and harvest goods in this addictive idle farming clicker.",
-  image: "/assets/little-farm-clicker/little-farm-clicker-logo.png",
-  url: "/little-farm-clicker"
+  "monkey-mart": {
+  id: "monkey-mart",
+  title: "Monkey Mar",
+  description: "Play the addictive Monkey Mart game! This is the unblocked version of the exciting idle farming and management simulator. Plant, harvest, staff your shelves, and serve animal customers in your very own supermarket managed by a busy monkey entrepreneur.",
+  image: "/assets/monkey-mart/monkey-mart-logo.jpeg",
+  url: "/monkey-mart"
   }
 };
 
