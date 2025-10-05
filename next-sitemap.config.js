@@ -8,7 +8,7 @@ module.exports = {
   changefreq: 'daily',
   priority: 0.9,
   outDir: './public',
-  generateIndexSitemap: true,  // 禁用索引 sitemap
+  generateIndexSitemap: false,  // 禁用索引 sitemap
   transform: async (config, path) => {
     let priority = 0.9;
     let changefreq = 'monthly';
@@ -104,6 +104,6 @@ module.exports = {
         allow: ['/llms.txt', '/llms-full.txt'],
       },
     ],
-    additionalSitemaps: ['https://www.cozygame.net/sitemap.xml'],
+    //additionalSitemaps: [`${siteConfig.url}/sitemap.xml`],
   },
 }
