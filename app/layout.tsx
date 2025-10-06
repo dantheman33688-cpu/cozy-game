@@ -1,10 +1,10 @@
 import './globals.css';
 import type { Metadata } from 'next';
-import { Inter } from 'next/font/google';
+import '@fontsource/inter/latin.css';
 import { siteConfig } from "@/config/site";
 import Script from 'next/script';
 
-const inter = Inter({ subsets: ['latin'] });
+// const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
@@ -79,7 +79,11 @@ export default function RootLayout({
           </>
         )}
       </head>
-      <body className={inter.className}>{children}</body>
+
+      <body className="font-sans">
+        {children}
+      </body>
+      
     </html>
   );
 }
