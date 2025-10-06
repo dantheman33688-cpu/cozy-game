@@ -3,12 +3,15 @@ const { siteConfig } = require('./config/site');
 
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  siteUrl:  siteConfig.url,
+  // 站点 URL（来自你的 siteConfig）
+  siteUrl: siteConfig.url,
+  outDir: './public',
   generateRobotsTxt: true,
+  generateIndexSitemap: false,
   changefreq: 'daily',
   priority: 0.9,
-  outDir: './public',
-  generateIndexSitemap: false,  // 禁用索引 sitemap
+
+  // 转换逻辑：控制每个路径的优先级和更新频率
   transform: async (config, path) => {
     let priority = 0.9;
     let changefreq = 'monthly';
@@ -16,7 +19,9 @@ module.exports = {
     if (path === '/' || path === '') {
       priority = 1.0;
       changefreq = 'daily';
-    } else if (path === '/privacy-policy' || path === '/terms-of-service' || path === '/about' || path === '/contact') {
+    } else if (
+      ['/privacy-policy', '/terms-of-service', '/about', '/contact'].includes(path)
+    ) {
       priority = 0.8;
       changefreq = 'monthly';
     }
@@ -27,83 +32,45 @@ module.exports = {
       priority,
       lastmod: new Date().toISOString(),
       alternateRefs: [],
-    }
+    };
   },
+
+  // Robots.txt 设置
   robotsTxtOptions: {
     policies: [
-      // 常规搜索引擎规则
+      // 一般搜索引擎允许全部
       {
         userAgent: '*',
         allow: '/',
       },
-
-      // 专用 AI 爬虫 - 仅允许访问 llms 文件
-      {
-        userAgent: 'GPTBot',
+      // 限制 AI 爬虫，仅允许访问 llms 文件
+      ...[
+        'GPTBot',
+        'ChatGPT-User',
+        'OAI-SearchBot',
+        'Claude-Web',
+        'Anthropic-AI',
+        'ClaudeBot',
+        'PerplexityBot',
+        'DeepseekBot',
+        'cohere-ai',
+        'YouBot',
+        'GoogleOther',
+        'DuckAssistBot',
+        'Bytespider',
+      ].map((bot) => ({
+        userAgent: bot,
         disallow: '/',
         allow: ['/llms.txt', '/llms-full.txt'],
-      },
-      {
-        userAgent: 'ChatGPT-User',
-        disallow: '/',
-        allow: ['/llms.txt', '/llms-full.txt'],
-      },
-      {
-        userAgent: 'OAI-SearchBot',
-        disallow: '/',
-        allow: ['/llms.txt', '/llms-full.txt'],
-      },
-      {
-        userAgent: 'Claude-Web',
-        disallow: '/',
-        allow: ['/llms.txt', '/llms-full.txt'],
-      },
-      {
-        userAgent: 'Anthropic-AI',
-        disallow: '/',
-        allow: ['/llms.txt', '/llms-full.txt'],
-      },
-      {
-        userAgent: 'ClaudeBot',
-        disallow: '/',
-        allow: ['/llms.txt', '/llms-full.txt'],
-      },
-      {
-        userAgent: 'PerplexityBot',
-        disallow: '/',
-        allow: ['/llms.txt', '/llms-full.txt'],
-      },
-      {
-        userAgent: 'DeepseekBot',
-        disallow: '/',
-        allow: ['/llms.txt', '/llms-full.txt'],
-      },
-      {
-        userAgent: 'cohere-ai',
-        disallow: '/',
-        allow: ['/llms.txt', '/llms-full.txt'],
-      },
-      {
-        userAgent: 'YouBot',
-        disallow: '/',
-        allow: ['/llms.txt', '/llms-full.txt'],
-      },
-      {
-        userAgent: 'GoogleOther',
-        disallow: '/',
-        allow: ['/llms.txt', '/llms-full.txt'],
-      },
-      {
-        userAgent: 'DuckAssistBot',
-        disallow: '/',
-        allow: ['/llms.txt', '/llms-full.txt'],
-      },
-      {
-        userAgent: 'Bytespider',
-        disallow: '/',
-        allow: ['/llms.txt', '/llms-full.txt'],
-      },
+      })),
     ],
-    //additionalSitemaps: [`${siteConfig.url}/sitemap.xml`],
+    additionalSitemaps: [`${siteConfig.url}/sitemap.xml`],
   },
-}
+
+  // ✅ 移除 Host 行（部分 next-sitemap 版本会自动加）
+  transformRobotsTxt: (robotsTxt) => {
+    return robotsTxt
+      .replace(/^# Host:[\s\S]*?(?=\n# Sitemap|$)/gm, '') // 删除 # Host 行
+      .replace(/^Host:.*$/gm, ''); // 删除任何 Host: 开头的行
+  },
+};
