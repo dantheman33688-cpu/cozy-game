@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Cozy Game",
-  description: "Play Cozy Games unblocked online for free. Control crazy cattle in this 3D action game. No download required, start playing instantly in your browser!",
+  description: "Control the crazy cattle and livestock in this fun 3D casual game. Play Cozy Game unblocked online for free—start instantly in your browser with no download!",
   domain: "cozygame.com",
   url: "https://www.cozygame.net",
   email: "support@causalzap.com",

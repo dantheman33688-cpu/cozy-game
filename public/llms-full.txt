@@ -13,17 +13,18 @@ The low-difficulty learning curve makes the site incredibly welcoming to newcome
 ## Featured Cozy Games
 Below are our hand-picked, low-stress simulation and management games, available to play instantly in your browser. No downloads are required—just click and start your journey of relaxation and creation.
 
-### My Perfect Hotel (Hotel Management Sim)
+### Thorn And Balloons (Physics Puzzle)
 
-Step into the role of a hotel manager, where you are responsible for guest check-ins, room cleaning, fee collection, and facility upgrading. This is a captivating time-management simulator that emphasizes efficiency and client satisfaction.
+Step into the role of a precision marksman, where you are responsible for calculating launch angles, managing power, and executing trick shots. This is a captivating physics puzzle game that emphasizes strategy and precise execution.
 
-- Core Gameplay: Strategically manage staff, optimize room layouts, and invest wisely to maximize your profits.
+- Core Gameplay: Strategically calculate the trajectory, utilize wall bounces, and invest time in mastering one-shot clearances to maximize your scores.
 
-- Key Features: Features a sophisticated upgrade system and is the ideal way to master time-management skills in a low-pressure environment.
+- Key Features: Features realistic bounce physics and is the ideal way to master spatial reasoning skills in a fun, challenging environment.
 
-- Experience: A rewarding yet relaxing business simulation experience.
+- Experience: A rewarding yet challenging precision puzzle experience.
 
 URL: https://www.cozygame.net
+
 
 ###  Idle Lumber Inc. (Idle Tycoon & Resource Management)
 This is an engaging idle incremental game that challenges you to build and manage an automated lumber empire. The game centers on strategically upgrading machinery and hiring managers to achieve passive income.
@@ -100,21 +101,19 @@ Detailed Guides and Strategies: https://www.cozygame.net/#how-to-play
 
 ## Frequently Asked Questions
 
-### Where can I play My Perfect Hotel for free online?
-My Perfect Hotel is available to play for free on Poki and other online gaming platforms. The game supports multiple platforms including desktop computers, mobile devices, and tablets, allowing you to play this simulation game anytime, anywhere without downloads.
+### Overcoming the 30-Second Time Pressure?
+The 30-second timer is both thrilling and punishing. Many players report frustration at the mental pressure it creates. To stay composed, treat your first few seconds as setup time: identify targets, plan your launch, then commit confidently.
+Practicing mindfulness and breathing control can improve your reaction under stress. With repetition, the countdown becomes a motivator rather than an obstacle — sharpening your reflexes and boosting efficiency.
 
-### What should I upgrade first in My Perfect Hotel?
-The optimal upgrade path starts with receptionists to speed up check-ins and improve cash flow. Next, hire cleaners to maintain room hygiene and boost customer satisfaction. Finally, focus on room upgrades for long-term income growth. This strategy ensures maximum profit generation when you play this free online game.
+### Solving Precise Control Difficulties and Minor Bugs
+Adjust your screen sensitivity in the settings menu.
+Play with consistent finger placement to build muscle memory.
+Use a stylus if your touchscreen struggles with accuracy.
+Developers have acknowledged minor input lag and trajectory misalignment bugs. Until patched, patience and recalibration remain your best defense.
 
-### What are the main employee roles and their impacts?
-Receptionists handle guest check-ins and payments - their efficiency directly impacts cash flow. Cleaners maintain room hygiene - crucial for guest satisfaction and tips. Servers deliver food and services - they increase additional revenue through tips. Upgrade each employee type to improve their work speed and effectiveness in this free simulation game.
-
-### How important are daily tasks in My Perfect Hotel?
-Daily tasks are essential for maintaining hotel profitability. Each completed task contributes to your revenue stream. The manager's daily checklist includes customer flow management, revenue generation, maintenance activities, and expansion planning. Consistent completion of these tasks is key to success when you play this free online management game.
-
-### What's the best strategy to maximize profits?
-Focus on the three management skills: time management to prioritize tasks, resource management to invest wisely in upgrades, and strategic planning to optimize hotel layout. Use reward ads to accelerate starting funds, and always balance short-term cash flow improvements with long-term room upgrades for sustained profit growth.
-
+### Addressing Difficulty Spikes and IAP/Ad Fairness
+Some players express concern over sudden difficulty spikes and perceived imbalance between free and paid users. While Thorn Ball remains free-to-play, in-app purchases (IAPs) like extra time or hint systems can tilt the challenge. To maintain fairness, focus on honing skill and level memory.
+Ads between levels can disrupt rhythm; many users recommend playing offline or purchasing the ad-free upgrade. Despite these issues, the community agrees that Thorn Ball’s deep mechanics make it one of the most rewarding physics puzzle games available.
 
 Complete FAQ: https://www.cozygame.net/#faq
 

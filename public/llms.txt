@@ -29,10 +29,10 @@ Cozy Games curates the best **HTML5 casual experiences** in the world, specializ
 
 ## FAQ
 
-- [New Manager Guide](https://www.cozygame.net/#how-to-play) - **How to Start and Master Time Management?** (如何开始并掌握时间管理？)
-- [Optimal Strategy & Upgrades](https://www.cozygame.net/#upgrades) - **What is the Best Upgrade Order for Maximum Profit?** (最大化利润的最佳升级顺序是什么？)
-- [Staffing and Efficiency](https://www.cozygame.net/#staffing) - **How to Balance Staff Hiring and Roles?** (如何平衡员工雇佣和角色？)
-- [Full FAQ & Tips](https://www.cozygame.net/#faq) - **Find All Tips, Controls, and Platform Facts.** (查找所有技巧、控制方式和平台事实。)
+- [New Manager Guide](https://www.cozygame.net/#how-to-play) - **How to Stay Composed Under the 30-Second Clock?** 
+- [Optimal Strategy & Upgrades](https://www.cozygame.net/#upgrades) - **How to Solve Precision Issues and Input Lag?** 
+- [Staffing and Efficiency](https://www.cozygame.net/#staffing) - **How to Handle Difficulty Spikes and Ad/IAP Balance?**
+- [Full FAQ & Tips](https://www.cozygame.net/#faq) - **Find All Advanced Tips, Controls, and Platform Facts.** 
 
 ## Technical Information
 

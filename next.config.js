@@ -7,8 +7,8 @@ const nextConfig = {
   async rewrites() {
     return [
       {
-        source: '/my-perfect-hotel',
-        destination: '/game/my-perfect-hotel/index.html',
+        source: '/thorn-and-balloons',
+        destination: '/game/thorn-and-balloons/index.html',
       },
       {
         source: '/idle_lumber_inc',

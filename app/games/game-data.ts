@@ -7,13 +7,13 @@ export interface Game {
 }
 
 export const games: Record<string, Game> = {
-  "my-perfect-hotel": {
-    id: "my-perfect-hotel",
-    title: "My Perfect Hotel",
-    description: "Play My Perfect Hotel free online! Run your dream hotel, manage staff, upgrade rooms, and collect tips in this relaxing time-management simulator game.",
-    image: "/assets/my-perfect-hotel/my-perfect-hotel.png",
-    url: "/",
-  },
+  "thorn-and-balloons": {
+    "id": "thorn-and-balloons",
+    "title": "Thorn And Balloons: Precision Physics Puzzle | Unblocked Bounce Pop",
+    "description": "Master Thorn And Balloons free online! Calculate **launch power and angle** to execute **wall bounces** and **one-shot clearances** in this addictive physics puzzle.",
+    "image": "/assets/thorn-and-balloons/thorn-and-balloons-logo.webp", 
+    "url": "/",
+  } ,
   "idle-lumber-inc": {
     id: "idle-lumber-inc",
     title: "Idle Lumber Inc.",
