@@ -7,26 +7,26 @@ import { OtherGames } from "@/components/other-games/OtherGames";
 import { Footer } from "@/components/layout/Footer";
 import { getOtherGames } from "@/app/games/game-data";
 import { generateGameSchema } from "@/app/schema";
-import MonkeyMartContentComponent from "@/components/content/MonkeyMartContent";
+import MilkClickerContent from "@/components/content/MilkClickerContent";
 
 export const metadata: Metadata = {
-  title: "Monkey Mart Guide: Tips, Strategies, and Efficient Store Management",
-  description: "Master Monkey Mart with expert strategies, optimize your store layout, manage staff effectively, and overcome common pain points for maximum profits.",
-  alternates: { canonical: 'https://www.cozygame.net/monkey-mart' },
-  openGraph: {
-    title: "Monkey Mart Ultimate Strategy Guide",
-    description: "Maximize your store's efficiency with this comprehensive Monkey Mart strategy guide. Learn the best layout and management tips!",
-    url: 'https://www.cozygame.net/monkey-mart',
+    title: "Milk Clicker: Ultimate OPS Strategy & Prestige Guide (2025) - Max MPS",
+    description:"Master Milk Clicker's One-Price Shop (OPS) and Prestige system. Learn the optimal upgrade order to boost your MPS/MPC and find the top 5 high-return assets.",      
+   alternates: { canonical: 'https://www.cozygame.net/milk-clicker' },
+   openGraph: {
+    title: "Milk Clicker: Ultimate OPS Strategy & Prestige Guide (2025) - Max MPS",    
+    description:"Master Milk Clicker's One-Price Shop (OPS) and Prestige system. Learn the optimal upgrade order to boost your MPS/MPC and find the top 5 high-return assets.",      
+    url: 'https://www.cozygame.net/milk-clicker',
     siteName: 'Cozy Game',
-    images: [{ url: '/assets/monkey-mart/monkey-mart-logo.png', width: 1200, height: 630, alt: 'Monkey Mart Strategy Guide' }],
+    images: [{ url: '/assets/monkey-mart/milk-clicker-logo.jpeg', width: 1200, height: 630, alt: 'Milk Clicker Strategy Guide' }],
     locale: 'en_US',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: "Monkey Mart Ultimate Strategy Guide",
-    description: "Become a store management expert with our Monkey Mart strategy guide. Learn the best layout and staff management techniques!",
-    images: ['/assets/monkey-mart/monkey-mart-logo.png'],
+    title: "Milk Clicker: Ultimate OPS Strategy & Prestige Guide (2025) - Max MPS",
+    description:"Master Milk Clicker's One-Price Shop (OPS) and Prestige system. Learn the optimal upgrade order to boost your MPS/MPC and find the top 5 high-return assets.",      
+    images: ['/assets/monkey-mart/milk-clicker-logo.jpeg'],
   },
   robots: {
     index: true,
@@ -100,13 +100,13 @@ type GameConfig = {
 
 const gameConfig: GameConfig = {
   metadata: {
-    title: "Monkey Mart Ultimate Strategy Guide",
-    description: "Master store management and maximize profits in Monkey Mart with our comprehensive guide.",
-    url: "/monkey-mart"
+    title: "Milk Clicker: Ultimate OPS Strategy & Prestige Guide (2025) - Max MPS",
+    description: "Master Milk Clicker's One-Price Shop (OPS) and Prestige system. Learn the optimal upgrade order to boost your MPS/MPC and find the top 5 high-return assets.", 
+    url: "/milk-clicker"
   },
   content: {
     header: {
-      title: "Monkey Mart",
+      title: "Milk Clicker: Ultimate OPS Strategy & Prestige Guide (2025) - Max MPS",
       search: {
         placeholder: "Find your next favorite game...",
         ariaLabel: "Search games",
@@ -124,9 +124,9 @@ const gameConfig: GameConfig = {
     },
     footer: {
       about: { 
-        title: "About Monkey Mart", 
-        description: `Play Monkey Mart - a fun store management simulation where you run your own monkey supermarket. Stock shelves, manage staff, and serve customers to maximize profits!` 
-      },
+        title: "Milk Clicker: Ultimate OPS Strategy & Prestige Guide (2025) - Max MPS", 
+        description: "Master Milk Clicker's One-Price Shop (OPS) and Prestige system. Learn the optimal upgrade order to boost your MPS/MPC and find the top 5 high-return assets."
+    },
       quickLinks: { 
         title: "Quick Links", 
         links: [
@@ -146,7 +146,7 @@ const gameConfig: GameConfig = {
       social: { 
         title: "Follow Us", 
         links: [
-          { text: "Twitter", href: "https://twitter.com" }  
+          { text: "Twitter", href: "https://twitter.com"}
         ] 
       },
       legal: { 
@@ -164,16 +164,16 @@ const gameConfig: GameConfig = {
       },
     },
     rating: {
-      title: "Rate Monkey Mart!",
+      title: "Rate Milk Clicker",
       votes: "votes",
       initialRating: 4.7,
       initialVotes: 98,
     },
     gameSection: {
-      title: "Monkey Mart",
+      title: "Milk Clicker: Ultimate OPS Strategy & Prestige Guide (2025) - Max MPS",
       game: {
-        url: "https://papasgames3d.com/MonkeyMart/",
-        title: "Monkey Mart",
+        url: "https://cookie-clicker2.com/milk-clicker.embed",
+        title: "Milk Clicker: Ultimate OPS Strategy & Prestige Guide (2025) - Max MPS",
         externalUrl: "/monkey-mart/index.html",
       },
     },
@@ -223,7 +223,7 @@ const gameConfig: GameConfig = {
 
 export default function MonkeyMartPage() {
   return (
-    <div className="min-h-screen bg-gradient-to-b from-white-50 to-emerald-50">
+    <div className="min-h-screen bg-gradient-to-b to-emerald-50">
       <Header />
       
       <div className="container mx-auto px-4 py-8">
@@ -235,7 +235,7 @@ export default function MonkeyMartPage() {
       </div>
 
       <div className="max-w-6xl mx-auto px-4 pb-8">
-        <MonkeyMartContentComponent />
+        <MilkClickerContent />
       </div>
 
       <Footer />

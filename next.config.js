@@ -26,6 +26,11 @@ const nextConfig = {
         source: '/monkey-mart',
         destination: '/game/monkey-mart/index.html',
       }
+      ,
+      {
+        source: '/milk-clicker',
+        destination: '/game/milk-clicker/index.html',
+      }
     ]
   }
 };

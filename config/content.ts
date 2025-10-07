@@ -38,6 +38,7 @@ export const content = {
         { text: "Cat Coffee Shop", href: "/cat-coffee-shop" },
         { text: "Little Farm Clicker", href: "/little-farm-clicker" },
         { text: "Monkey Mart", href: "/monkey-mart" },
+        { text: "Milk Clicker", href: "/milk-clicker" },
       ]
     },
     social: {

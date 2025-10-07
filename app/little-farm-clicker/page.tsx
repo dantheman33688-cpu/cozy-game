@@ -130,34 +130,32 @@ const gameConfig: GameConfig = {
       quickLinks: { 
         title: "Quick Links", 
         links: [
-          { text: "Home", href: "/" },
-          { text: "All Games", href: "/games" },
-          { text: "About Us", href: "/about" },
-          { text: "Contact", href: "/contact" }
+          { text: "Linktr", href: "https://linktr.ee/KnitOut" },
         ] 
       },
       games: { 
         title: "Similar Games", 
         links: [
-          { text: "Little Farm Clicker", href: "/little-farm-clicker" },
-          { text: "Shop Titans", href: "/shop-titans" },
-          { text: "Store Story", href: "/store-story" }
+          { text: "Thorn And Balloons", href: "/" },
+        { text: "Idle Lumber Inc", href: "/idle-lumber-inc" },
+        { text: "Cat Coffee Shop", href: "/cat-coffee-shop" },
+        { text: "Little Farm Clicker", href: "/little-farm-clicker" },
+        { text: "Monkey Mart", href: "/monkey-mart" },
         ] 
       },
       social: { 
         title: "Follow Us", 
         links: [
-          { text: "Facebook", href: "https://facebook.com" },
-          { text: "Twitter", href: "https://twitter.com" },
-          { text: "Instagram", href: "https://instagram.com" }
+          { text: "Twitter", href: "https://twitter.com"}
         ] 
       },
       legal: { 
         title: "Legal", 
         links: [
-          { text: "Privacy Policy", href: "/privacy" },
-          { text: "Terms of Service", href: "/terms" },
-          { text: "Cookie Policy", href: "/cookies" }
+          { text: "About Us", href: "/about" },
+        { text: "Contact Us", href: "/contact" },
+        { text: "Privacy Policy", href: "/privacy-policy" },
+        { text: "Terms of Service", href: "/terms-of-service" }
         ] 
       },
       copyright: { 
@@ -172,11 +170,11 @@ const gameConfig: GameConfig = {
       initialVotes: 98,
     },
     gameSection: {
-      title: "Monkey Mart",
+      title: "Milk Clicker",
       game: {
-        url: "https://ubg235.poki.com",
+        url: "https://cookie-clicker2.com/milk-clicker.embed",
         title: "Monkey Mart",
-        externalUrl: "/monkey-mart/index.html",
+        externalUrl: "/milk-clicker/index.html",
       },
     },
     otherGames: {

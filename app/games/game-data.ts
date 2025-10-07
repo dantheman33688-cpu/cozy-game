@@ -34,7 +34,14 @@ export const games: Record<string, Game> = {
   description: "Play the addictive Monkey Mart game! This is the unblocked version of the exciting idle farming and management simulator. Plant, harvest, staff your shelves, and serve animal customers in your very own supermarket managed by a busy monkey entrepreneur.",
   image: "/assets/monkey-mart/monkey-mart-logo.jpeg",
   url: "/monkey-mart"
-  }
+  },
+  "milk-clicker": {
+  "id": "milk-clicker",
+  "title": "Milk Clicker",
+  "description": "Master Milk Clicker's One-Price Shop (OPS) and Prestige system. Learn the optimal upgrade order to boost your MPS/MPC and find the top 5 high-return assets.",
+  "image": "/assets/milk-clicker/milk-clicker-logo.jpeg",
+  "url": "/milk-clicker"
+}
 };
 
 // 获取其他游戏列表

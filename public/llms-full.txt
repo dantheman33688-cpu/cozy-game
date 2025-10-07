@@ -65,6 +65,15 @@ Master the management loop to keep your market running smoothly and expand your 
 URL: https://www.cozygame.net/monkey-mart
 
 
+### Milk Clicker (Idle Clicker & Fixed-Cost Strategy)
+This is an addictive idle incremental game that challenges you to build a powerful dairy empire through precise economic planning. The core strategy revolves around leveraging the unique One-Price Shop (OPS) for continuous, exponential growth.
+Core Gameplay: Master the fixed-cost OPS to strategically invest in upgrades, balancing your Milk Per Second (MPS) automation with Milk Per Click (MPC) bursts for maximum resource gain.
+Key Features: Emphasizes a distinct strategic element through the OPS, combined with deep progression via the Prestige system for permanent power stacking.
+Experience: Offers a highly rewarding progression curve that favors active planning and frequent investment over passive waiting.
+
+URL: https://www.cozygame.net/milk-clicker	
+
+
 ## How To Play
 
 ### Controls (Standard)

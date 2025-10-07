@@ -24,6 +24,7 @@ module.exports = {
       { loc: '/idle-lumber-inc', changefreq: 'monthly', priority: 0.9 },
       { loc: '/little-farm-clicker', changefreq: 'monthly', priority: 0.9 },
       { loc: '/cat-coffee-shop', changefreq: 'monthly', priority: 0.9 },
+      { loc: '/milk-clicker', changefreq: 'monthly', priority: 0.9 },
     ];
   },
 }; 
