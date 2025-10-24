@@ -176,7 +176,7 @@ const gameConfig: GameConfig = {
       game: {
         url: "https://g.igroutka.ru/games/17/qPGZvCNuiysorzHD/idle_lumber_inc1/",
         title: "Idle Lumber Inc.",
-        externalUrl: "/idle-lumber-inc/index.html",
+        externalUrl: "/idle-lumber-inc",
       },
     },
     otherGames: {

@@ -17,7 +17,7 @@ Disallow: /
 # OAI-SearchBot
 User-agent: OAI-SearchBot
 Allow: /llms.txt
-Allow: /llms-full.txt
+Allow: /llms-full
 Disallow: /
 
 # Claude-Web
