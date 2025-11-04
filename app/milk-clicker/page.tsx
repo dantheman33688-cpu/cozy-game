@@ -174,7 +174,7 @@ const gameConfig: GameConfig = {
       game: {
         url: "https://cookie-clicker2.com/milk-clicker.embed",
         title: "Milk Clicker: Ultimate OPS Strategy & Prestige Guide (2025) - Max MPS",
-        externalUrl: "/monkey-mart/index.html",
+        externalUrl: "/monkey-mart",
       },
     },
     otherGames: {

@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Capitalist Bus Driver</title>
+  <meta name="robots" content="noindex" />
+  <style>
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      background: #111;
+      color: #fff;
+      min-height: 100dvh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden; /* 移除滚动条 */
+    }
+    
+    .container {
+      text-align: center;
+      padding: 24px;
+      max-width: 600px;
+      width: 100%;
+    }
+    
+    .logo {
+      width: 120px;
+      height: 120px;
+      margin: 0 auto 2rem;
+      border-radius: 20px;
+      overflow: hidden;
+      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+    }
+    
+    .logo img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    
+    h1 {
+      font-size: 3rem;
+      margin-bottom: 1rem;
+      background: linear-gradient(45deg, #F57F17, #D81B60, #8E24AA);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+    
+    .description {
+      font-size: 1.2rem;
+      opacity: 0.9;
+      margin-bottom: 2rem;
+      line-height: 1.6;
+    }
+    
+    .button-container {
+      display: flex;
+      justify-content: center;
+      margin-top: 2rem;
+      /* 只保留一个按钮，居中显示 */
+    }
+    
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.75rem 1.5rem;
+      border-radius: 50px;
+      background: linear-gradient(45deg, #F57F17, #D81B60, #8E24AA);
+      color: #fff;
+      text-decoration: none;
+      border: none;
+      cursor: pointer;
+      font-size: 1.1rem;
+      font-weight: 600;
+      transition: all 0.3s ease;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    }
+    
+    .btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
+    }
+    
+    .game-info {
+      background: rgba(255, 255, 255, 0.1);
+      padding: 1.5rem;
+      border-radius: 12px;
+      margin-top: 2rem;
+      text-align: left;
+    }
+    
+    .feature-list {
+      list-style: none;
+      padding: 0;
+      margin: 1rem 0;
+    }
+    
+    .feature-list li {
+      padding: 0.5rem 0;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    
+    .feature-list li::before {
+      content: "✓";
+      color: #10B981;
+      font-weight: bold;
+    }
+    
+    @keyframes pulse {
+      0% { transform: scale(1); }
+      50% { transform: scale(1.05); }
+      100% { transform: scale(1); }
+    }
+    
+    .pulse {
+      animation: pulse 2s infinite;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- 添加Logo -->
+    <div class="logo">
+      <img src="/assets/capitalist-bus-driver/capitalist-bus-driver-logo.webp" alt="Capitalist Bus Driver Logo">
+    </div>
+    
+    <h1>Capitalist Bus Driver</h1>
+    
+    <p class="description">
+      Build your transportation empire! Start with a single bus and grow your business 
+      into a massive tycoon enterprise. Manage routes, upgrade vehicles, and maximize profits.
+    </p>
+    
+    <!-- 只保留一个Play Now按钮 -->
+    <div class="button-container">
+      <button class="btn pulse" id="openPopup">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z"/>
+          <path d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+        </svg>
+        Play Now
+      </button>
+    </div>
+    
+  </div>
+
+  <script>
+    const GAME_URL = "https://gamesforboys.net/wp-content/uploads/2025/game/capitalist-bus-driver.html";
+    
+    // 弹窗打开功能
+    document.getElementById('openPopup').addEventListener('click', function() {
+      const popupWidth = 1100;
+      const popupHeight = 720;
+      
+      // 计算居中位置
+      const left = (window.screen.width - popupWidth) / 2;
+      const top = (window.screen.height - popupHeight) / 2;
+      
+      const popupFeatures = [
+        `width=${popupWidth}`,
+        `height=${popupHeight}`,
+        `left=${left}`,
+        `top=${top}`,
+        'menubar=no',
+        'toolbar=no',
+        'location=no',
+        'status=no',
+        'resizable=yes',
+        'scrollbars=yes'
+      ].join(',');
+      
+      const popup = window.open(GAME_URL, 'capitalist_bus_driver', popupFeatures);
+      
+      if (popup) {
+        popup.focus();
+        
+        // 添加打开成功提示
+        this.innerHTML = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6L9 17l-5-5"/></svg> Game Opened!';
+        this.style.background = '#10B981';
+        this.classList.remove('pulse');
+        
+        // 3秒后恢复原状
+        setTimeout(() => {
+          this.innerHTML = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z"/><path d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg> Play Now';
+          this.style.background = '';
+          this.classList.add('pulse');
+        }, 3000);
+      } else {
+        // 如果弹窗被阻止，提示用户
+        alert('Popup was blocked by your browser. Please allow popups for this site or use the direct game URL.');
+      }
+    });
+    
+    // 添加键盘快捷键支持
+    document.addEventListener('keydown', function(e) {
+      // Enter键打开弹窗
+      if (e.key === 'Enter') {
+        document.getElementById('openPopup').click();
+      }
+    });
+  </script>
+</body>
+</html>

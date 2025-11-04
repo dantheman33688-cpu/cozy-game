@@ -66,6 +66,15 @@ Experience: Offers a highly rewarding progression curve that favors active plann
 URL: https://www.cozygame.net/milk-clicker	
 
 
+###Capitalist Bus Driver (Driving Tycoon & Dual-Business Simulation)
+This engaging simulation and tycoon hybrid challenges you to grow from a humble city bus driver into the owner of a sprawling seaside resort empire. By combining relaxing driving mechanics with strategic investment gameplay, it offers both casual fun and deep economic planning.
+Core Gameplay: Drive routes to earn steady income, then reinvest your profits to expand and upgrade your beachfront resort. Balance short-term operational efficiency with long-term growth by managing both your transportation business and resort development in tandem.
+Key Features: Dual-core gameplay loop that seamlessly merges bus route management and resort building, detailed upgrade systems, automation features for passive income, and visual progression as your empire evolves from sandy beaches to five-star luxury destinations.
+Experience: A satisfying mix of hands-on driving and strategic management that rewards optimization, foresight, and steady expansion—perfect for players who enjoy watching small ventures grow into massive, automated empires.
+
+URL: https://www.cozygame.net/capitalist-bus-driver
+
+
 ## How To Play
 
 ### Controls (Standard)

@@ -7,10 +7,6 @@ const nextConfig = {
   async rewrites() {
     return [
       {
-        source: '/thorn-and-balloons',
-        destination: '/game/thorn-and-balloons/index.html',
-      },
-      {
         source: '/idle_lumber_inc',
         destination: '/game/idle-lumber-inc/index.html',
       },
@@ -25,11 +21,14 @@ const nextConfig = {
       {
         source: '/monkey-mart',
         destination: '/game/monkey-mart/index.html',
-      }
-      ,
+      },
       {
         source: '/milk-clicker',
         destination: '/game/milk-clicker/index.html',
+      },
+      {
+        source: '/capitalist-bus-driver',
+        destination: '/game/capitalist-bus-driver/index.html',
       }
     ]
   }

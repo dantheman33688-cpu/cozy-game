@@ -75,7 +75,7 @@ export const content = {
     game: {
       url: 'https://thornandballoons.com/game/index.html',
       title: "Thorn And Balloons",
-      externalUrl: '/game/thorn-and-balloons/index.html'
+      externalUrl: '/'
     }
   },
   otherGames: {

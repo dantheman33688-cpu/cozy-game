@@ -41,7 +41,14 @@ export const games: Record<string, Game> = {
   "description": "Master Milk Clicker's One-Price Shop (OPS) and Prestige system. Learn the optimal upgrade order to boost your MPS/MPC and find the top 5 high-return assets.",
   "image": "/assets/milk-clicker/milk-clicker-logo.jpeg",
   "url": "/milk-clicker"
-}
+},
+  "capitalist-bus-driver": {
+    "id": "capitalist-bus-driver",
+    "title": "Capitalist Bus Driver Unblocked",
+    "description": "Bus Driver to Tycoon: In-depth guide to balancing driving and management. Learn optimal Bus Route Strategies for maximum passenger fares, and how to efficiently unlock and manage your Seaside Resort Tycoon facilities for profit maximization.",
+    "image": "/assets/capitalist-bus-driver/capitalist-bus-driver-logo.webp",
+    "url": "/capitalist-bus-driver"
+  }
 };
 
 // 获取其他游戏列表

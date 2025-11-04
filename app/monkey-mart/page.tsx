@@ -174,7 +174,7 @@ const gameConfig: GameConfig = {
       game: {
         url: "https://papasgames3d.com/MonkeyMart/",
         title: "Monkey Mart",
-        externalUrl: "/monkey-mart/index.html",
+        externalUrl: "/monkey-mart",
       },
     },
     otherGames: {
