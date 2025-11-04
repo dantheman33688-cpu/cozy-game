@@ -212,7 +212,8 @@ const gameConfig: GameConfig = {
       title: "Other Games",
       cardLabels: { playButton: "Play Now" },
     },
-    features: { title: "Features", items: [] },
+    // ✅ 修复 readonly [] 类型错误
+    features: { title: "Features", items: [] as any[] },
     howToPlay: {
       title: "How to Play",
       description: "",
@@ -224,9 +225,9 @@ const gameConfig: GameConfig = {
       description: "",
       logo: { src: "", alt: "" },
     },
-    faq: { title: "FAQ", items: [] },
+    faq: { title: "FAQ", items: [] as any[] },
   },
-} as const;
+};
 
 export default function CapitalistBusDriverPage() {
   return (
@@ -249,7 +250,6 @@ export default function CapitalistBusDriverPage() {
           rel="noopener noreferrer"
           className="inline-flex items-center bg-black text-white rounded-xl px-5 py-2 hover:bg-gray-800 transition-colors"
         >
-          {/* Apple logo SVG */}
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="22"
@@ -267,7 +267,6 @@ export default function CapitalistBusDriverPage() {
           </div>
         </a>
       </div>
-      
 
       <div className="container mx-auto px-4 pb-8">
         <OtherGames games={getOtherGames()} onGameSelect={() => {}} />
