@@ -10,7 +10,7 @@ export const games: Record<string, Game> = {
   "thorn-and-balloons": {
     "id": "thorn-and-balloons",
     "title": "Thorn And Balloons: Precision Physics Puzzle | Unblocked Bounce Pop",
-    "description": "Master Thorn And Balloons free online! Calculate **launch power and angle** to execute **wall bounces** and **one-shot clearances** in this addictive physics puzzle.",
+    "description": "Master Thorn And Balloons free online! Calculate launch power and angle to execute wall bounces and one-shot clearances in this addictive physics puzzle.",
     "image": "/assets/thorn-and-balloons/thorn-and-balloons-logo.webp", 
     "url": "/",
   } ,
@@ -48,6 +48,20 @@ export const games: Record<string, Game> = {
     "description": "Bus Driver to Tycoon: In-depth guide to balancing driving and management. Learn optimal Bus Route Strategies for maximum passenger fares, and how to efficiently unlock and manage your Seaside Resort Tycoon facilities for profit maximization.",
     "image": "/assets/capitalist-bus-driver/capitalist-bus-driver-logo.webp",
     "url": "/capitalist-bus-driver"
+  },
+  "tower-merge": {
+    "id": "tower-merge",
+    "title": "Tower Merge: Strategy Meets Defense",    
+    "description": "Merge, Strategize, Defend: This next-generation Tower Defense game fuses the satisfaction of merging puzzles with live tactical defense. Constantly manage resource production (Wood, Stone, Gold), upgrade your towers under pressure, and withstand epic Dragon assaults where every merge choice matters.",
+    "image": "/assets/tower-merge/tower-merge-logo.webp",
+    "url": "/tower-merge"
+  },
+  "drift-boss": {
+    "id": "drift-boss",
+    "title": "Drift Boss: One-Tap Challenge for Ultimate Drifting Mastery",    
+    "description": "Drift Boss is the ultimate One-Tap precision game. Master timing on endless corners, collect coins for powerful upgrades, and compete in Weekly Challenges to top the Global Leaderboards.",
+    "image": "/assets/drift-boss/drift-boss-logo.webp",
+    "url": "/drift-boss"
   }
 };
 

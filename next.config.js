@@ -29,6 +29,14 @@ const nextConfig = {
       {
         source: '/capitalist-bus-driver',
         destination: '/game/capitalist-bus-driver/index.html',
+      },
+      {
+        source: '/tower-merge',
+        destination: '/game/tower-merge/index.html',
+      },
+      {
+        source: '/drift-boss',
+        destination: '/game/drift-boss/index.html',
       }
     ]
   }

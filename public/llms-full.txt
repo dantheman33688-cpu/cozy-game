@@ -75,6 +75,17 @@ Experience: A satisfying mix of hands-on driving and strategic management that r
 URL: https://www.cozygame.net/capitalist-bus-driver
 
 
+### Tower Merge (Next-Gen Tower Defense & Strategic Merging Hybrid)
+This adrenaline-fueled strategy game challenges you to combine the satisfaction of merging puzzles with the intense action of live tactical tower defense. You're not just placing towers; you're constantly managing resource production and upgrading defenses under pressure.
+
+Core Gameplay: Master the Merge → Upgrade → Defend loop. Merge basic resources (Wood, Stone) to produce stronger materials (Coal, Gold), invest them instantly into upgrading your defense network, and hold off escalating waves of enemies, culminating in epic Dragon Assaults.
+
+Key Features: A dynamic dual-core gameplay loop where real-time resource management directly impacts combat survival, a deep four-tier resource system (Wood, Stone, Coal, Gold) that demands strategic pacing, complex tower placement strategy (Front, Mid, Back lines), and demanding Dragon boss fights that test adaptability and skill timing.
+
+Experience: A fast-paced, highly reactive, and deeply rewarding experience that turns management into combat. It rewards foresight, strategic resource allocation, and perfect skill synchronization, ideal for players seeking a tower defense game that values intelligence over reflexes.
+
+URL: https://www.cozygame.net/tower-merge
+
 ## How To Play
 
 ### Controls (Standard)

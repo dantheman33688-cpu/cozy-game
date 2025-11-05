@@ -1,24 +1,24 @@
 # Cozy Games - Free Online Relaxing Games (No Download)
 
-> Cozy Games is your premier destination for **free online browser games** focused on **relaxation, comfort, and low-stress fun**. Play instantly without any downloads or sign-up, directly in your web browser. Discover delightful simulation, idle, and puzzle experiences designed to help you unwind.
+> Cozy Games is your premier destination for free online browser games focused on relaxation, comfort, and low-stress fun. Play instantly without any downloads or sign-up, directly in your web browser. Discover delightful simulation, idle, and puzzle experiences designed to help you unwind.
 
-Cozy Games curates the best **HTML5 casual experiences** in the world, specializing in games where **progress is soothing** and **pressure is minimal**. Unlike intense action titles, our collection emphasizes **gentle resource management**, **creative decoration**, and **passive progression**. Start building your perfect hotel, managing a lumber empire, or growing a vibrant farm—all with the click of a button.
+Cozy Games curates the best HTML5 casual experiences in the world, specializing in games where progress is soothing and pressure is minimal. Unlike intense action titles, our collection emphasizes gentle resource management, creative decoration, and passive progression. Start building your perfect hotel, managing a lumber empire, or growing a vibrant farm—all with the click of a button.
 
 ## Game Information
 
-- [Play Now](https://www.cozygame.net) - **Play Cozy Games Free Online** 
-- [Game Features](https://www.cozygame.net/#features) - **Discover Relaxing Game Features** 
-- [How to Play](https://www.cozygame.net/#how-to-play) - **Learn Cozy Game Strategy & Tips** 
+- [Play Now](https://www.cozygame.net) - Play Cozy Games Free Online 
+- [Game Features](https://www.cozygame.net/#features) - Discover Relaxing Game Features 
+- [How to Play](https://www.cozygame.net/#how-to-play) - Learn Cozy Game Strategy & Tips 
 
 ## Game Versions
 
-- [My Perfect Hotel](https://www.cozygame.net/my-perfect-hotel) - **The ultimate free online hotel management simulator** 
-- [Idle Lumber Inc.](https://www.cozygame.net/idle-lumber-inc) - **Relaxing free online idle tycoon and resource game** 
+- [My Perfect Hotel](https://www.cozygame.net/my-perfect-hotel) - The ultimate free online hotel management simulator 
+- [Idle Lumber Inc.](https://www.cozygame.net/idle-lumber-inc) - Relaxing free online idle tycoon and resource game 
 - [Cat Coffee Shop](https://www.cozygame.net/cat-coffee-shop) - Cat Coffee Shop is a free online idle/management game by Lutte. Play as a cute cat running a cafe, starting with one table and a single machine. Your core task is to prepare drinks, tidy up, and collect earnings. Use your income to upgrade your cafe and recruit automated assistants. It perfectly blends relaxing gameplay with strategic resource management on both computer and mobile devices.
 - [Monkey Mart](https://www.cozygame.net/monkey-mart) - Run your own market with a busy monkey! This exciting unblocked game blends idle farming and store management. Plant, harvest, stock the shelves, and serve unique animal customers to earn cash and expand your supermarket. Play the full game free online now!
 - [Milk Clicker](https://www.cozygame.net/milk-clicker) - Start your dairy empire! This addictive unblocked idle clicker features the unique One-Price Shop (OPS) mechanic. Master the strategy of consistent, fixed-cost upgrades to maximize MPS/MPC, time your Prestige resets for permanent power, and endlessly scale your milk production. Play the full game free online now!
-- [Milk Clicker](https://www.cozygame.net/capitalist-bus-driver) - Master the dual business empire in Capitalist Bus Driver. Learn how to balance bus operations and resort development for maximum profits in this comprehensive strategy guide!
-
+- [Capitalist Bus Driver](https://www.cozygame.net/capitalist-bus-driver) - Master the dual business empire in Capitalist Bus Driver. Learn how to balance bus operations and resort development for maximum profits in this comprehensive strategy guide!
+- [Tower Merge](https://www.cozygame.net/tower-merge) - Merge, Strategize, Defend: Master the core loop of this next-gen Tower Defense by learning optimal resource pacing (Wood, Stone, Gold) and perfect Skill Tower timing to withstand epic Dragon assaults.
 
 ## Gameplay Features
 
@@ -30,10 +30,10 @@ Cozy Games curates the best **HTML5 casual experiences** in the world, specializ
 
 ## FAQ
 
-- [New Manager Guide](https://www.cozygame.net/#how-to-play) - **How to Stay Composed Under the 30-Second Clock?** 
-- [Optimal Strategy & Upgrades](https://www.cozygame.net/#upgrades) - **How to Solve Precision Issues and Input Lag?** 
-- [Staffing and Efficiency](https://www.cozygame.net/#staffing) - **How to Handle Difficulty Spikes and Ad/IAP Balance?**
-- [Full FAQ & Tips](https://www.cozygame.net/#faq) - **Find All Advanced Tips, Controls, and Platform Facts.** 
+- [New Manager Guide](https://www.cozygame.net/#how-to-play) - How to Stay Composed Under the 30-Second Clock? 
+- [Optimal Strategy & Upgrades](https://www.cozygame.net/#upgrades) - How to Solve Precision Issues and Input Lag? 
+- [Staffing and Efficiency](https://www.cozygame.net/#staffing) - How to Handle Difficulty Spikes and Ad/IAP Balance?
+- [Full FAQ & Tips](https://www.cozygame.net/#faq) - Find All Advanced Tips, Controls, and Platform Facts. 
 
 ## Technical Information
 
@@ -56,6 +56,6 @@ Cozy Games curates the best **HTML5 casual experiences** in the world, specializ
 
 ### About The Game
 
-**Cozy Games** offers a unique **relaxing simulation and management** experience where players can build, expand, and manage their dream enterprises across varied virtual worlds. Master the art of efficient resource flow and gentle progression across three distinct core genres: **idle clickers, time-management simulators, and casual city-builders**. Each game offers unique **low-stress strategic opportunities**, creating a satisfying yet peaceful experience.
+Cozy Games offers a unique relaxing simulation and management experience where players can build, expand, and manage their dream enterprises across varied virtual worlds. Master the art of efficient resource flow and gentle progression across three distinct core genres: idle clickers, time-management simulators, and casual city-builders. Each game offers unique low-stress strategic opportunities, creating a satisfying yet peaceful experience.
 
-While the game's **low-difficulty level** welcomes newcomers, mastering our unique **progression system** delivers a deeply rewarding and relaxing experience. Play directly in your browser—**no downloads or sign-up needed**, just pure comfort and engaging fun that keeps you coming back for more.
+While the game's low-difficulty level welcomes newcomers, mastering our unique progression system delivers a deeply rewarding and relaxing experience. Play directly in your browser—no downloads or sign-up needed, just pure comfort and engaging fun that keeps you coming back for more.

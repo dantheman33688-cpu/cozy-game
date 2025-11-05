@@ -25,6 +25,10 @@ module.exports = {
       { loc: '/little-farm-clicker', changefreq: 'monthly', priority: 0.9 },
       { loc: '/cat-coffee-shop', changefreq: 'monthly', priority: 0.9 },
       { loc: '/milk-clicker', changefreq: 'monthly', priority: 0.9 },
+      { loc: '/capitalist-bus-driver', changefreq: 'monthly', priority: 0.9 },
+      { loc: '/tower-merge', changefreq: 'monthly', priority: 0.9 },
+      { loc: '/drift-boss', changefreq: 'monthly', priority: 0.9 },
+
     ];
   },
 }; 
