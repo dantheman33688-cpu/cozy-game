@@ -133,6 +133,25 @@ Experience: A fast-paced, highly addictive experience defined by pure skill, con
 
 URL: https://www.cozygame.net/polytrack
 
+### Eggy Car (Endless Balance & Precision Driving)
+
+This physics-based driving game transforms a simple premise—transporting a fragile egg in a car across rough terrain—into a demanding test of **control, patience, and balance**. Unlike traditional racing, the focus is not on speed, but on continuous, delicate adjustments to maintain egg stability against gravity and momentum.
+
+Core Gameplay: The game follows an endless loop: **Drive Carefully → Balance Fragile Egg → Collect Coins → Unlock Upgrades.** The terrain becomes progressively steeper and bumpier as distance increases, challenging the player's fine motor control.
+
+Key Features:
+* **Precision Physics Core:** The egg is a free-body object; acceleration/braking directly affects its inertia. Smooth, gentle inputs are critical.
+* **Endless Distance Goal:** No finish line or checkpoints; success is measured solely by the maximum distance achieved in a single run.
+* **Progression System:** Collect coins during runs. Spend coins to unlock new cars (with varied handling/stability traits) and new visual tracks/themes.
+* **Calm Challenge:** The experience blends serene visuals and gentle physics with an addictive, unforgiving challenge, often described as "meditative driving."
+* **Accessibility:** Simple two-button/tap-to-drive controls make it easy to learn but hard to master across all platforms (Mobile/Web).
+
+Experience: Highly addictive gameplay rewarding surgical control and rhythmic driving. Players must master the art of **Micro-Braking** on descents and **Gradual Throttle** on inclines to prevent the egg from bouncing out or cracking forward. Ideal for players seeking self-improvement through refined skill and concentration.
+
+URL: https://www.cozygame.net/eggy-car
+
+
+
 ## How To Play
 
 ### Controls (Standard)

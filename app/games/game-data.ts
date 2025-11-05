@@ -69,6 +69,13 @@ export const games: Record<string, Game> = {
     "description": "Polytrack fuses TrackMania-inspired time-trial racing with a powerful in-game level editor. Build custom tracks with loops and jumps, race against ghost rivals from global leaderboards, and chase milliseconds of perfection. Pure low-poly driving mastery.",
     "image": "/assets/polytrack/polytrack-logo.webp",
     "url": "/polytrack"
+  },
+  "eggy-car": {
+    "id": "eggy-car",
+    "title": "Eggy Car: Physics Challenge — Master Balance, Save the Egg",
+    "description": "This endless, physics-based balancing game challenges you to drive a quirky car carrying a **fragile egg**. Control speed and inertia across bumpy terrain to keep the egg intact, measure your success by distance, and unlock new cars. It's a test of patience, micro-braking, and serene, focused driving.",
+    "image": "/assets/eggy-car/eggy-car-logo.webp",
+    "url": "/eggy-car"
   }
 };
 

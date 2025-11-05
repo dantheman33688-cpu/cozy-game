@@ -21,7 +21,7 @@ Cozy Games curates the best HTML5 casual experiences in the world, specializing 
 - [Tower Merge](https://www.cozygame.net/tower-merge) - Merge, Strategize, Defend: Master the core loop of this next-gen Tower Defense by learning optimal resource pacing (Wood, Stone, Gold) and perfect Skill Tower timing to withstand epic Dragon assaults.
 - [Drift Boss](https://www.cozygame.net/drift-boss) - Tap, Drift, Dominate: The ultimate One-Tap precision game where you master timing on endless corners and compete in Weekly Challenges for global dominance.
 - [Polytrack](https://www.cozygame.net/ploytrack) - Design, Race, Refine: Master the low-poly time-trial challenge by building custom tracks and competing against Ghost Rivals on every millisecond.
-
+- [Eggy Car](https://www.cozygame.net/eggy-car) - This endless, physics-based balancing game puts you in a car carrying a **fragile egg**. Conquer increasingly bumpy, steep terrain by mastering micro-adjustments to speed and inertia. Success is measured by the maximum distance traveled without the egg cracking.
 
 ## Gameplay Features
 

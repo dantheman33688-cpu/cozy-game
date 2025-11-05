@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     description:
       "Master the unique merging mechanics, optimize Wood and Gold resource production, and learn perfect skill timing to defeat every Dragon boss in Tower Merge. Ultimate strategy guide for veterans!",
     url: "https://www.cozygame.net/tower-merge",
-    siteName: "Duck Duck Click", // Assuming this is correct from your original
+    siteName: "Cozy Game", // Assuming this is correct from your original
     images: [
       {
         url: "/assets/tower-merge/tower-merge-logo.webp",

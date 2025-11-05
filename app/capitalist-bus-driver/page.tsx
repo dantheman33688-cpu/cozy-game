@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     description:
       "Master the dual business empire in Capitalist Bus Driver. Learn how to balance bus operations and resort development for maximum profits!",
     url: "https://www.cozygame.net/capitalist-bus-driver",
-    siteName: "Duck Duck Click",
+    siteName: "Cozy Game",
     images: [
       {
         url: "/assets/capitalist-bus-driver/capitalist-bus-driver-logo.webp",

@@ -3,51 +3,41 @@ import { siteConfig } from "@/config/site";
 import { Header } from "@/components/layout/Header";
 import { GameSection } from "@/components/game-section/GameSection";
 import { OtherGames } from "@/components/other-games/OtherGames";
-import PolytrackContent from "@/components/content/PolytrackContent";
+import EggyCarContent from "@/components/content/EggyCarContent";
 import { Footer } from "@/components/layout/Footer";
 import { getOtherGames } from "@/app/games/game-data";
 import { generateGameSchema } from "@/app/schema";
 import { articleContent } from "./content";
 
-export const metadata = {
-  // --- SEO Title and Description (Primary Search Results) ---
-  // 目标: 优化搜索量高、难度低的关键词 "unblocked"。
-  title: `Polytrack unblocked: Low-Poly Track Designer and Racing Guide`,
+export const metadata: Metadata = {
+  title: `Eggy Car: Physics Driving Challenge - Master Balance, Beat Time, Save the Egg | ${siteConfig.domain}`,
   description:
-    "Master the ultimate racing freedom in Polytrack unblocked! Learn to build custom tracks, perfect your racing lines, and compete against global ghost data. Complete strategy guide inside!",
-  
-  // --- Canonical URL ---
-  alternates: { canonical: "https://www.cozygame.net/polytrack" },
-  
-  // --- OpenGraph (Social Sharing - Facebook, LinkedIn, etc.) ---
+    "Master precision balance in Eggy Car! Learn physics-based driving techniques, protect your fragile egg, and achieve record distances. Complete strategy guide inside!",
+  alternates: { canonical: "https://www.cozygame.net/eggy-car" },
   openGraph: {
-    title: "Polytrack unblocked Strategy Guide: Master Track Design and Precision Racing",
+    title: "Eggy Car Strategy Guide: Master Physics-Based Balance and Precision Driving",
     description:
-      "Design, build, and master custom racing tracks in Polytrack. Learn advanced track design techniques, ghost racing strategies, and time-trial optimization.",
-    url: "https://www.cozygame.net/polytrack",
+      "Protect your fragile egg in Eggy Car! Learn advanced balance techniques, perfect your timing, and master the art of smooth acceleration and braking.",
+    url: "https://www.cozygame.net/eggy-car",
     siteName: "Cozy Game",
     images: [
       {
-        url: "/assets/polytrack/polytrack-logo.webp",
+        url: "/assets/eggy-car/eggy-car-logo.webp",
         width: 1200,
         height: 630,
-        alt: "Polytrack Strategy Guide: Design, Build, Race",
+        alt: "Eggy Car Strategy Guide: Balance, Precision, Survival",
       },
     ],
     locale: "en_US",
     type: "website",
   },
-  
-  // --- Twitter Card (Social Sharing - X/Twitter) ---
   twitter: {
     card: "summary_large_image",
-    title: "Polytrack unblocked: Ultimate Track Design and Racing Mastery Guide",
+    title: "Eggy Car: Ultimate Physics Driving and Balance Mastery Guide",
     description:
-      "Create custom circuits and master precision racing in Polytrack. Learn ghost racing, track design, and advanced driving techniques for competitive time-trials.",
-    images: ["/assets/polytrack/polytrack-logo.webp"],
+      "Keep your egg intact! Master Eggy Car's physics-based challenges with smooth acceleration, precise braking, and strategic terrain navigation techniques.",
+    images: ["/assets/eggy-car/eggy-car-logo.webp"],
   },
-  
-  // --- Robots (Standard Best Practices) ---
   robots: {
     index: true,
     follow: true,
@@ -60,8 +50,6 @@ export const metadata = {
     },
   },
 };
-
-
 
 type GameConfig = {
   readonly metadata: {
@@ -143,14 +131,14 @@ type GameConfig = {
 
 const gameConfig: GameConfig = {
   metadata: {
-    title: "Polytrack: Ultimate Low-Poly Track Designer and Racing Guide",
+    title: "Eggy Car: Physics Driving Challenge - Master Balance, Beat Time, Save the Egg",
     description:
-      "Master the art of track design and precision racing in Polytrack. Build custom circuits, perfect your racing lines, and compete against global ghost data.",
-    url: "/polytrack",
+      "Master the art of precision balance in Eggy Car. Protect your fragile egg with smooth acceleration, perfect timing, and strategic terrain navigation.",
+    url: "/eggy-car",
   },
   content: {
     header: {
-      title: "Polytrack",
+      title: "Eggy Car",
       search: {
         placeholder: "Find your next favorite game...",
         ariaLabel: "Search games",
@@ -170,7 +158,7 @@ const gameConfig: GameConfig = {
     footer: {
       about: {
         title: "About",
-        description: `Play Polytrack - a revolutionary low-poly racing game that combines creative track design with precision time-trial competition. Design custom circuits, master ghost racing, and compete for milliseconds right in your browser. No downloads required.`,
+        description: `Play Eggy Car - a physics-based balancing game that challenges your precision and timing. Protect a fragile egg while navigating challenging terrain with smooth acceleration and braking. No downloads required - play directly in your browser!`,
       },
       quickLinks: {
         title: "Quick Links",
@@ -181,7 +169,7 @@ const gameConfig: GameConfig = {
         links: [
           { text: "Thorn And Balloons", href: "/" },
           { text: "Idle Lumber Inc", href: "/idle-lumber-inc" },
-          { text: "Polytrack", href: "/polytrack" },
+          { text: "Eggy Car", href: "/eggy-car" },
           { text: "Cat Coffee Shop", href: "/cat-coffee-shop" },
           { text: "Little Farm Clicker", href: "/little-farm-clicker" },
           { text: "Monkey Mart", href: "/monkey-mart" },
@@ -206,17 +194,17 @@ const gameConfig: GameConfig = {
       },
     },
     rating: {
-      title: "Rate Polytrack!",
+      title: "Rate Eggy Car!",
       votes: "votes",
       initialRating: 0,
       initialVotes: 0,
     },
     gameSection: {
-      title: "Polytrack",
+      title: "Eggy Car",
       game: {
-        url: "/game/polytrack/index.html",
-        title: "Polytrack",
-        externalUrl: "https://www.kodub.com/apps/polytrack",
+        url: "/game/eggy-car/index.html",
+        title: "Eggy Car",
+        externalUrl: "https://poki.com/en/g/eggy-car",
       },
     },
     otherGames: {
@@ -231,7 +219,7 @@ const gameConfig: GameConfig = {
       imageAlt: "",
     },
     whatIs: {
-      title: "What is Polytrack?",
+      title: "What is Eggy Car?",
       description: "",
       logo: { src: "", alt: "" },
     },
@@ -239,7 +227,7 @@ const gameConfig: GameConfig = {
   },
 };
 
-export default function PolytrackPage() {
+export default function EggyCarPage() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-gray-50 to-gray-100">
       <Header />
@@ -249,16 +237,16 @@ export default function PolytrackPage() {
       </div>
 
       <div className="max-w-6xl mx-auto px-4 pb-8">
-        <PolytrackContent content={articleContent} />
+        <EggyCarContent content={articleContent} />
       </div>
 
-      {/* 🎮 社区链接区域 */}
+      {/* 🎮 平台下载区域 */}
       <div className="flex justify-center mt-6 mb-10 gap-4">
         <a
-          href="https://steamcommunity.com/app/polytrack"
+          href="https://play.google.com/store/apps/details?id=com.playducky.eggycar"
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-flex items-center bg-gray-800 text-white rounded-xl px-5 py-2 hover:bg-gray-900 transition-colors"
+          className="inline-flex items-center bg-green-600 text-white rounded-xl px-5 py-2 hover:bg-green-700 transition-colors"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -268,11 +256,33 @@ export default function PolytrackPage() {
             fill="currentColor"
             className="mr-2"
           >
-            <path d="M11.979 0C5.678 0 .511 4.86.022 11.037l6.432 2.658c.545-.371 1.203-.59 1.912-.59.063 0 .125.004.188.006l2.861-4.142V8.91c0-1.035.84-1.875 1.875-1.875 1.032 0 1.87.84 1.87 1.874v1.953l1.445 2.109c.04-.001.08-.004.121-.004 1.285 0 2.43.83 2.83 2.066l3.257 1.358C21.767 19.06 17.1 24 11.979 24c-6.627 0-12-5.373-12-12s5.373-12 12-12z"/>
+            <path d="M3.609 1.814L13.792 12 3.61 22.186a.996.996 0 0 1-.61-.92V2.734a1 1 0 0 1 .609-.92zm10.89 10.893l2.302 2.302-10.937 6.333 8.635-8.635zm3.199-3.198l2.807 1.626a1 1 0 0 1 0 1.73l-2.808 1.626L15.206 12l2.492-2.491zM5.864 2.658L16.802 8.99l-2.303 2.303-8.635-8.635z"/>
           </svg>
           <div className="text-left leading-tight">
-            <div className="text-xs font-light">VIEW ON</div>
-            <div className="text-sm font-semibold -mt-0.5">Steam</div>
+            <div className="text-xs font-light">GET IT ON</div>
+            <div className="text-sm font-semibold -mt-0.5">Google Play</div>
+          </div>
+        </a>
+
+        <a
+          href="https://apps.apple.com/us/app/eggy-car/id1234567890"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center bg-black text-white rounded-xl px-5 py-2 hover:bg-gray-800 transition-colors"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="22"
+            height="22"
+            viewBox="0 0 24 24"
+            fill="currentColor"
+            className="mr-2"
+          >
+            <path d="M16.365 1.43a4.418 4.418 0 0 1-1.062 3.366 4.12 4.12 0 0 1-3.168 1.542 4.453 4.453 0 0 1 1.07-3.386A4.611 4.611 0 0 1 16.365 1.43ZM20.367 17.26a8.837 8.837 0 0 1-.831 1.523 8.328 8.328 0 0 1-1.058 1.301c-.685.683-1.419.976-2.198.99-.559 0-1.178-.16-1.848-.478-.67-.317-1.289-.475-1.855-.475-.598 0-1.24.158-1.927.475-.689.318-1.257.49-1.7.518-.751.03-1.505-.268-2.261-.896a9.37 9.37 0 0 1-1.14-1.296 9.342 9.342 0 0 1-1.02-1.559c-.894-1.62-1.341-3.192-1.341-4.72 0-1.39.3-2.597.903-3.62a5.87 5.87 0 0 1 2.021-2.03 5.349 5.349 0 0 1 2.734-.783c.538 0 1.243.183 2.11.548.864.365 1.419.55 1.663.55.184 0 .799-.205 1.847-.615 1.006-.385 1.853-.544 2.536-.474 1.875.15 3.286.886 4.22 2.207-1.676 1.03-2.509 2.469-2.496 4.313.013 1.438.534 2.635 1.564 3.594.466.438.982.782 1.547 1.034-.124.356-.263.698-.415 1.025Z" />
+          </svg>
+          <div className="text-left leading-tight">
+            <div className="text-xs font-light">Download on the</div>
+            <div className="text-sm font-semibold -mt-0.5">App Store</div>
           </div>
         </a>
       </div>

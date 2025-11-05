@@ -24,7 +24,7 @@ export const metadata = {
     description:
       "Master the art of one-tap drifting, optimize coin collection strategies, and learn advanced timing techniques to conquer every corner in Drift Boss. Ultimate racing guide!",
     url: "https://www.cozygame.net/drift-boss",
-    siteName: "Duck Duck Click",
+    siteName: "Cozy Game",
     images: [
       {
         url: "/assets/drift-boss/drift-boss-logo.webp",
