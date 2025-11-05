@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     title: "Idle Lumber Inc Ultimate Tycoon Strategy Guide",
     description: "Maximize your earnings and efficiency in Idle Lumber Inc with this comprehensive strategy guide. Learn the fastest path to tycoon status!",
     url: 'https://www.cozygame.net/idle-lumber-inc',
-    siteName: 'Duck Duck Click',
+    siteName: 'Cozy Game',
     images: [{ url: '/assets/idle-lumber-inc/Idle-lumber-Inc.png', width: 1200, height: 630, alt: 'Idle Lumber Inc Strategy Guide' }],
     locale: 'en_US',
     type: 'website',
