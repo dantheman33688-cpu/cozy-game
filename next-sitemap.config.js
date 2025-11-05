@@ -28,6 +28,7 @@ module.exports = {
       { loc: '/capitalist-bus-driver', changefreq: 'monthly', priority: 0.9 },
       { loc: '/tower-merge', changefreq: 'monthly', priority: 0.9 },
       { loc: '/drift-boss', changefreq: 'monthly', priority: 0.9 },
+      { loc: '/polytrack', changefreq: 'monthly', priority: 0.9 },
 
     ];
   },

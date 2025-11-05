@@ -62,6 +62,13 @@ export const games: Record<string, Game> = {
     "description": "Drift Boss is the ultimate One-Tap precision game. Master timing on endless corners, collect coins for powerful upgrades, and compete in Weekly Challenges to top the Global Leaderboards.",
     "image": "/assets/drift-boss/drift-boss-logo.webp",
     "url": "/drift-boss"
+  },
+  "polytrack": {
+    "id": "polytrack",
+    "title": "Polytrack: Low-Poly Track Designer & Ultimate Time-Trial Racing",
+    "description": "Polytrack fuses TrackMania-inspired time-trial racing with a powerful in-game level editor. Build custom tracks with loops and jumps, race against ghost rivals from global leaderboards, and chase milliseconds of perfection. Pure low-poly driving mastery.",
+    "image": "/assets/polytrack/polytrack-logo.webp",
+    "url": "/polytrack"
   }
 };
 

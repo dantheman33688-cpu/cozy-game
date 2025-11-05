@@ -86,6 +86,53 @@ Experience: A fast-paced, highly reactive, and deeply rewarding experience that 
 
 URL: https://www.cozygame.net/tower-merge
 
+### Tower Merge (Next-Gen Tower Defense & Strategic Merging Hybrid)
+This adrenaline-fueled strategy game challenges you to combine the satisfaction of merging puzzles with the intense action of live tactical tower defense. You're not just placing towers; you're constantly managing resource production and upgrading defenses under pressure.
+
+Core Gameplay: Master the Merge → Upgrade → Defend loop. Merge basic resources (Wood, Stone) to produce stronger materials (Coal, Gold), invest them instantly into upgrading your defense network, and hold off escalating waves of enemies, culminating in epic Dragon Assaults.
+
+Key Features: A dynamic dual-core gameplay loop where real-time resource management directly impacts combat survival, a deep four-tier resource system (Wood, Stone, Coal, Gold) that demands strategic pacing, complex tower placement strategy (Front, Mid, Back lines), and demanding Dragon boss fights that test adaptability and skill timing.
+
+Experience: A fast-paced, highly reactive, and deeply rewarding experience that turns management into combat. It rewards foresight, strategic resource allocation, and perfect skill synchronization, ideal for players seeking a tower defense game that values intelligence over reflexes.
+
+URL: https://www.cozygame.net/tower-merge
+
+### Tower Merge (Next-Gen Tower Defense & Strategic Merging Hybrid)
+This adrenaline-fueled strategy game challenges you to combine the satisfaction of merging puzzles with the intense action of live tactical tower defense. You're not just placing towers; you're constantly managing resource production and upgrading defenses under pressure.
+
+Core Gameplay: Master the Merge → Upgrade → Defend loop. Merge basic resources (Wood, Stone) to produce stronger materials (Coal, Gold), invest them instantly into upgrading your defense network, and hold off escalating waves of enemies, culminating in epic Dragon Assaults.
+
+Key Features: A dynamic dual-core gameplay loop where real-time resource management directly impacts combat survival, a deep four-tier resource system (Wood, Stone, Coal, Gold) that demands strategic pacing, complex tower placement strategy (Front, Mid, Back lines), and demanding Dragon boss fights that test adaptability and skill timing.
+
+Experience: A fast-paced, highly reactive, and deeply rewarding experience that turns management into combat. It rewards foresight, strategic resource allocation, and perfect skill synchronization, ideal for players seeking a tower defense game that values intelligence over reflexes.
+
+URL: https://www.cozygame.net/tower-merge
+
+
+### Drift Boss (One-Tap Precision & High-Score Racing Challenge)
+
+Drift Boss is the definitive One-Tap precision game and an addictive high-stakes drifting challenge. It strips racing down to its essence: timing, not steering, is everything. Players must conquer endless corners and master the center discipline to maximize precision bonuses and extend their run.
+
+Core Gameplay: Master the Tap → Drift → Collect → Upgrade loop. One touch initiates the drift; success depends on precise release timing. Earn Gold Coins by surviving and strategically weaving into coin trails, then spend earnings on new vehicles, power-ups (like Coin Rush), and upgrades to fuel the next run.
+
+Key Features: One-Tap Controls for intuitive yet infinitely deep mastery; High-Risk, High-Reward Economy where the choice to collect coins must be balanced against survival; Weekly Challenges and Global Leaderboards for constant competitive goals; a diverse garage of unlockable cars (Taxi, Police Car, Ambulance, etc.) that subtly affect handling.
+
+Experience: A fast-paced, pure skill challenge that feels simple to play, impossible to master. It rewards flawless rhythm, economic strategy, and razor-sharp reflexes, perfect for players seeking competitive, score-chasing mastery.
+
+URL: https://www.google.com/search?q=https://www.cozygame.net/drift-boss
+
+### Polytrack (Low-Poly Racing & Custom Track Designer Hybrid)
+
+This minimalist, low-poly racing game is a playground for precisionists, fusing world-class time-trial racing with the ultimate in-game track editor. Inspired by TrackMania, Polytrack challenges you to not only conquer but also design the circuits, focusing purely on driving mastery and the continuous chase for perfection.
+
+Core Gameplay: Master the Build → Race → Refine loop. Use the integrated level editor to design custom tracks with loops and jumps, then race against your best time's Ghost Replay, constantly iterating on both your driving line and track layout for the perfect run.
+
+Key Features: A powerful, drag-and-drop level editor for infinite track creation; Asynchronous Ghost Racing against your personal best or top players from global leaderboards; Community Sharing via simple design codes for an ever-expanding library of content (13 official circuits + infinite player tracks); and Customization of your low-poly vehicle's color scheme for unique branding in replays.
+
+Experience: A fast-paced, highly addictive experience defined by pure skill, consistent physics, and precision timing. It rewards surgical control and strategic course planning, ideal for players who find satisfaction in continuous self-improvement and data-driven competition.
+
+URL: https://www.cozygame.net/polytrack
+
 ## How To Play
 
 ### Controls (Standard)

@@ -38,6 +38,11 @@ const nextConfig = {
         source: '/drift-boss',
         destination: '/game/drift-boss/index.html',
       }
+      ,
+      {
+        source: '/polytrack',
+        destination: '/game/polytrack/index.html',
+      }
     ]
   }
 };
