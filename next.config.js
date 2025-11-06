@@ -53,6 +53,10 @@ const nextConfig = {
       {
         source: '/rocket-fortress',
         destination: '/game/rocket-fortress/index.html',
+      },
+      {
+        source: '/ragdoll-hit-stickman',
+        destination: '/game/ragdoll-hit-stickman/index.html',
       }
     ]
   }

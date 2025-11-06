@@ -90,6 +90,13 @@ export const games: Record<string, Game> = {
     "description": "Launch Holy Rockets. Crush the Infernal Gate. A high-octane clicker where every tap unleashes volleys of rockets into hellish hordes. Fuse fast-paced reflex-based action with endless upgrades and strategic resource management to grow exponentially stronger and conquer the Gates of Hell.",
     "image": "/assets/rocket-fortress/rocket-fortress-logo.webp",
     "url": "/rocket-fortress"
+  },
+  "ragdoll-hit-stickman": {
+    "id": "ragdoll-hit-stickman",
+    "title": "Ragdoll Stickman Showdown: Physics-Powered Fighting Fun",
+    "description": "Chaos, clever positioning, and physics collide! Master timing and momentum to win with precise pushes in this hilarious, physics-driven stickman brawler. Features single-player, survival, and two-player modes for endless fun.",
+    "image": "/assets/ragdoll-hit-stickman/ragdoll-hit-stickman-logo.webp",
+    "url": "/ragdoll-hit-stickman"
 }
 };
 

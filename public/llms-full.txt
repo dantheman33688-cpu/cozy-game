@@ -157,6 +157,83 @@ SWL offers a **"Flow State"** experience, highlighting the conquest of self-cont
 URL: https://www.cozygame.net/soflo-wheelie-life
 
 
+### Ragdoll Hit Stickman: The Ultimate Action Fight Game
+
+Feel the Thrill of Combat — Equip, Smash, and Conquer the Boss!
+
+**I. Game Overview: Action, Physics, and Endless Challenges**
+
+Step into the high-octane world of **Ragdoll Hit Stickman**, the definitive action game for fans of stickman fighters and dynamic physics. This game is built around **realistic ragdoll physics** that make every swing, hit, and smash feel incredibly impactful and satisfying.
+
+Players are immediately thrust into intense battles, facing foes through numerous challenging levels and culminating in extreme boss fights. With an emphasis on skill and reflexes, Ragdoll Hit Stickman provides an unforgettable action gaming experience where the excitement never stops.
+
+**II. Core Mechanics and Features**
+
+1. **Realistic Ragdoll Physics Combat**
+   * **Dynamic Fights:** The core ragdoll mechanics ensure that every combat exchange is dynamic and unique, adding a layer of unpredictability and excitement.
+   * **Satisfying Hits:** Experience the visceral thrill of watching enemies react realistically to slashes, bashes, and powerful weapon impacts.
+
+2. **Extensive Weapon Arsenal**
+   * **Vast Choice:** Choose from a wide array of weapons, including swords, hammers, and other unique combat tools, allowing for varied play styles.
+   * **Equip Your Hero:** Equip your stickman hero with the best gear to prepare for the relentless action ahead.
+
+3. **Progressive Challenge Structure**
+   * **Fun Levels:** Fight your way through many fun and engaging levels designed to test your skills and reflexes.
+   * **Extreme Boss Fights:** Prove your mastery in intense, challenging boss battles that require strategy and quick timing to defeat.
+
+4. **Hero Customization**
+   * **Awesome Skins:** Customize your stickman hero with a variety of awesome skins, allowing you to personalize your character as you rise to the top.
+
+**III. The Action Never Stops**
+
+### Ragdoll Hit Stickman combines the best elements of stickman games and ragdoll mechanics to deliver a complete action package.
+
+* The gameplay is designed to keep you engaged for hours, offering endless challenges.
+* The excitement is always high as you progress through levels and prepare to beat the boss.
+
+**Summary:** Ragdoll Hit Stickman is more than just a fight game; it's an action-packed adventure designed for players who love intense action and challenging gameplay. Equip your weapons, dive into the fun physics-based gameplay, and feel the satisfaction of victory.
+
+URL: https://www.cozygame.net/ragdoll-hit-stickman
+
+
+### Rocket Fortress: Demons Fall as Power Rises — A High-Octane Demon-Slaying Clicker
+
+Launch Holy Rockets. Crush the Infernal Gate. Rise Again Stronger.
+
+**I. Game Overview: The Fusion of Reflex and Progression**
+
+Rocket Fortress fuses the satisfying rhythm of a high-speed clicker with the visual drama of a hell-blazing rocket siege. Every tap launches a holy rocket into waves of grotesque demons, and every explosion pushes you closer to conquering the Gates of Hell. This is where **reflex meets progression**—a fast, fierce, and endlessly upgradeable experience where every explosion fuels your power curve.
+
+**II. Core Gameplay Loop: Tap, Destroy, Upgrade, Ascend**
+
+The heartbeat of Rocket Fortress is its tight, four-step progression cycle, designed for instant reward and long-term mastery:
+
+1.  **Tap to Fire:** Rapidly click or press Space to unleash volleys of guided rockets, providing instant visual and audio impact feedback.
+2.  **Slay and Collect:** Defeated demons drop Gold (common upgrades), Gems (rare blueprints), and Energy Cores (fortress evolutions).
+3.  **Upgrade and Invest:** Spend resources to enhance rocket damage, recruit passive DPS mercenaries, or amplify global stats via Fortress Power Modules.
+4.  **Return Stronger:** Ascend or re-enter higher-tier stages, facing tougher bosses while leveraging meta-progression for exponential growth.
+
+**III. Strategic Investment Depth**
+
+Rocket Fortress moves beyond simple idling, offering **Strategic Investment Depth** with long-term implications:
+
+* **Rocket Damage:** Focuses on immediate impact (active output).
+* **Mercenaries:** Provides passive DPS and resource generation (sustained income).
+* **Fortress Power Modules:** Grants global stat amplification and synergy (multiplicative scaling).
+
+Strategic resource allocation (Gold for routine upgrades, Gems for high-tier blueprints, Cores for fortress evolution) is crucial for maintaining momentum and preventing "flatline spending."
+
+**IV. Visual and Thematic Identity**
+
+The game’s aesthetic is **"holy-industrial,"** embracing the contrast of light vs. dark—gleaming holy rockets streaking through the smoky crimson of Hell. The fortress stands as humanity’s last bastion, reinforced by cinematic upgrades and surrounded by high-energy particle effects from radiant halo explosions.
+
+**V. Failure as Progress — Every Defeat is Ignition**
+
+There is no true failure, only recalibration. When overwhelmed, players retreat, upgrade, and relaunch. Defeat only resets the stage loop, but all core upgrades and resources persist. Critically, each reset feeds your **meta-progression** through retained power cores and unlocked modules, ensuring every loss just makes you stronger for the next launch.
+
+URL: https://www.cozygame.net/rocket-fortress
+
+
 Key Features:
 * **Precision Physics Core:** The egg is a free-body object; acceleration/braking directly affects its inertia. Smooth, gentle inputs are critical.
 * **Endless Distance Goal:** No finish line or checkpoints; success is measured solely by the maximum distance achieved in a single run.

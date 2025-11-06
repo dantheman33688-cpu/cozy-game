@@ -32,7 +32,7 @@ module.exports = {
       { loc: '/eggy-car', changefreq: 'monthly', priority: 0.9 },
       { loc: '/soflo-wheelie-life', changefreq: 'monthly', priority: 0.9 },
       { loc: '/rocket-fortress', changefreq: 'monthly', priority: 0.9 },
-
+      { loc: '/ragdoll-hit-stickman', changefreq: 'monthly', priority: 0.9 },
     ];
   },
 }; 
