@@ -246,6 +246,31 @@ Experience: Highly addictive gameplay rewarding surgical control and rhythmic dr
 URL: https://www.cozygame.net/eggy-car
 
 
+### Trial Mania: Extreme Off-Road Physics Challenge - Detailed Information
+
+**Genre:** Motorcycle Racing, Stunt Driving, Physics-Based Trials Game
+**Target Audience:** Hardcore racing enthusiasts, stunt game fans, players seeking realistic physics and deep progression.
+
+**Core Selling Points:**
+* **Realistic 3D Physics and Graphics:** Provides an immersive experience where precise throttle control and weight shifting are crucial for success on rugged, obstacle-filled terrain.
+* **High-Risk Stunt Scoring System:** Stunts are integral to progression, with higher-risk maneuvers (backflips, wheelies) yielding significant points and financial rewards, encouraging skillful and aggressive play.
+* **Extensive Progression System:** Features a selection of over a dozen high-performance bikes, each customizable and upgradable (speed, grip, agility) to enhance performance for increasingly difficult challenges.
+* **Diverse Content & Environments:** Players explore 5 distinct worlds (e.g., seaside tracks, snowy slopes, desert safaris), with some sources citing over 100+ unique levels designed to push player skills to the limit.
+
+**Gameplay Features:**
+1.  **Multiple Game Modes:** Includes **Classic Off-Road Racing** (focused on speed and time mastery) and **Crazy Stunt Competitions** (focused on high-scoring, creative maneuvers).
+2.  **Obstacle Navigation:** Courses are filled with extreme challenges like steep ramps, rolling balls, fire hazards, and complex structural elements that require perfect timing and balance.
+3.  **Failure Conditions:** The player fails a run by falling off the bike, crashing into obstacles, or running out of time, demanding constant attention to physics and control.
+4.  **Customization:** Coins earned from races and stunts can be used to upgrade bikes, improving essential attributes for better handling and maneuverability, which directly impacts stunt performance.
+
+**Development/Availability:**
+* **Developer:** hikBOO Studios (as per some app store listings).
+* **Platforms:** Available on Android and iOS (App Store/Google Play).
+
+
+URL: https://www.cozygame.net/trial-mania
+
+
 
 ## How To Play
 

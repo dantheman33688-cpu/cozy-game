@@ -33,6 +33,8 @@ module.exports = {
       { loc: '/soflo-wheelie-life', changefreq: 'monthly', priority: 0.9 },
       { loc: '/rocket-fortress', changefreq: 'monthly', priority: 0.9 },
       { loc: '/ragdoll-hit-stickman', changefreq: 'monthly', priority: 0.9 },
+      { loc: '/trial-mania', changefreq: 'monthly', priority: 0.9 },
+
     ];
   },
 }; 

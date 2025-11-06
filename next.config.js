@@ -57,6 +57,10 @@ const nextConfig = {
       {
         source: '/ragdoll-hit-stickman',
         destination: '/game/ragdoll-hit-stickman/index.html',
+      },
+      {
+        source: '/trial-mania',
+        destination: '/game/trial-mania/index.html',
       }
     ]
   }

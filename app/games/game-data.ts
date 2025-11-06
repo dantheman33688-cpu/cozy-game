@@ -97,7 +97,15 @@ export const games: Record<string, Game> = {
     "description": "Chaos, clever positioning, and physics collide! Master timing and momentum to win with precise pushes in this hilarious, physics-driven stickman brawler. Features single-player, survival, and two-player modes for endless fun.",
     "image": "/assets/ragdoll-hit-stickman/ragdoll-hit-stickman-logo.webp",
     "url": "/ragdoll-hit-stickman"
-}
+},
+"trial-mania": {
+    "id": "trial-mania",
+    "title": "Trial Mania: Extreme Off-Road Physics Challenge",
+    "description": "Master balance, speed, and high-risk stunts! Drive custom motorcycles across five rugged worlds, leveraging realistic 3D physics for precision control. Features Classic Racing, Crazy Stunt Competitions, and deep bike customization.",
+    "image": "/assets/trial-mania/trial-mania-logo.webp",
+    "url": "/trial-mania"
+  }
+
 };
 
 // 获取其他游戏列表
