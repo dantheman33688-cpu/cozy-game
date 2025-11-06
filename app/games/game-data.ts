@@ -83,7 +83,14 @@ export const games: Record<string, Game> = {
     "description": "Test your balance, reflexes, and stunt timing in Soflo Wheelie Life, a physics-driven motorcycle challenge set in vibrant night-city streets. Perform perfect wheelies, collect coins, and master precision control across endless urban arenas. With intuitive controls and realistic physics, every millisecond counts as you chase the longest, smoothest stunt run.",
     "image": "/assets/soflo-wheelie-life/soflo-wheelie-life-logo.webp",
     "url": "/soflo-wheelie-life"
-  }
+  },
+  "rocket-fortress": {
+    "id": "rocket-fortress",
+    "title": "Rocket Fortress: Demons Fall as Power Rises",
+    "description": "Launch Holy Rockets. Crush the Infernal Gate. A high-octane clicker where every tap unleashes volleys of rockets into hellish hordes. Fuse fast-paced reflex-based action with endless upgrades and strategic resource management to grow exponentially stronger and conquer the Gates of Hell.",
+    "image": "/assets/rocket-fortress/rocket-fortress-logo.webp",
+    "url": "/rocket-fortress"
+}
 };
 
 // 获取其他游戏列表

@@ -49,6 +49,10 @@ const nextConfig = {
       {
         source: '/soflo-wheelie-life',
         destination: '/game/soflo-wheelie-life/index.html',
+      },
+      {
+        source: '/rocket-fortress',
+        destination: '/game/rocket-fortress/index.html',
       }
     ]
   }
