@@ -22,6 +22,8 @@ Cozy Games curates the best HTML5 casual experiences in the world, specializing 
 - [Drift Boss](https://www.cozygame.net/drift-boss) - Tap, Drift, Dominate: The ultimate One-Tap precision game where you master timing on endless corners and compete in Weekly Challenges for global dominance.
 - [Polytrack](https://www.cozygame.net/ploytrack) - Design, Race, Refine: Master the low-poly time-trial challenge by building custom tracks and competing against Ghost Rivals on every millisecond.
 - [Eggy Car](https://www.cozygame.net/eggy-car) - This endless, physics-based balancing game puts you in a car carrying a **fragile egg**. Conquer increasingly bumpy, steep terrain by mastering micro-adjustments to speed and inertia. Success is measured by the maximum distance traveled without the egg cracking.
+- [Soflo Wheelie Life](https://www.cozygame.net/soflo-wheelie-life) - Soflo Wheelie Life is a high-precision, physics-driven motorcycle stunt game. Set on neon-lit city streets, players challenge the art of balance by micro-adjusting the throttle and tilt to maintain the longest possible wheelie. The game emphasizes skill over speed, offering an endless mode and family-friendly visuals, appealing to all who seek precise control and stunt mastery.
+
 
 ## Gameplay Features
 

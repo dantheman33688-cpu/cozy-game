@@ -45,6 +45,10 @@ const nextConfig = {
       {
         source: '/egy-car',
         destination: '/game/egy-car/index.html',
+      },
+      {
+        source: '/soflo-wheelie-life',
+        destination: '/game/soflo-wheelie-life/index.html',
       }
     ]
   }

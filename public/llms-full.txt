@@ -139,6 +139,24 @@ This physics-based driving game transforms a simple premise—transporting a fra
 
 Core Gameplay: The game follows an endless loop: **Drive Carefully → Balance Fragile Egg → Collect Coins → Unlock Upgrades.** The terrain becomes progressively steeper and bumpier as distance increases, challenging the player's fine motor control.
 
+URL: https://www.cozygame.net/eggy-car
+
+
+### Soflo Wheelie Life (SWL) is a high-fidelity simulation game focused purely on motorcycle wheelie stunts. It transforms the traditional racing experience into an ultimate test of **balance, patience, and micro-control**. The player's objective is not to reach a finish line, but to find and maintain the vehicle's **"balance point"** across endless night-city arenas through delicate throttle control and body lean, achieving the longest and smoothest stunts possible.
+
+The core mechanics are driven by a **high-precision balance physics engine**: every millisecond of throttle adjustment or tilt input affects the vehicle's dynamics in real-time. This grants the game significant depth beyond its friendly, cartoon-styled visuals.
+
+**The Core Gameplay Loop:**
+1.  **Maintain Balance:** Use subtle inputs (W/↑ for throttle, A/← to lean back) to keep the front wheel suspended.
+2.  **Perform Long Stunts:** Hold stability to activate and extend high score multipliers (Combos).
+3.  **Collect Rewards:** Gather coins scattered across the streets during successful runs.
+4.  **Upgrade & Evolve:** Use earnings to unlock new bikes and customization options. Higher-tier vehicles often feature improved stability, rewarding advanced players.
+
+SWL offers a **"Flow State"** experience, highlighting the conquest of self-control. It is perfect for players looking for mastery, precision timing, and infinite replay value.
+
+URL: https://www.cozygame.net/soflo-wheelie-life
+
+
 Key Features:
 * **Precision Physics Core:** The egg is a free-body object; acceleration/braking directly affects its inertia. Smooth, gentle inputs are critical.
 * **Endless Distance Goal:** No finish line or checkpoints; success is measured solely by the maximum distance achieved in a single run.

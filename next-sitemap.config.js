@@ -30,6 +30,7 @@ module.exports = {
       { loc: '/drift-boss', changefreq: 'monthly', priority: 0.9 },
       { loc: '/polytrack', changefreq: 'monthly', priority: 0.9 },
       { loc: '/eggy-car', changefreq: 'monthly', priority: 0.9 },
+      { loc: '/soflo-wheelie-life', changefreq: 'monthly', priority: 0.9 },
 
     ];
   },

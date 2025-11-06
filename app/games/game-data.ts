@@ -73,9 +73,16 @@ export const games: Record<string, Game> = {
   "eggy-car": {
     "id": "eggy-car",
     "title": "Eggy Car: Physics Challenge — Master Balance, Save the Egg",
-    "description": "This endless, physics-based balancing game challenges you to drive a quirky car carrying a **fragile egg**. Control speed and inertia across bumpy terrain to keep the egg intact, measure your success by distance, and unlock new cars. It's a test of patience, micro-braking, and serene, focused driving.",
+    "description": "This endless, physics-based balancing game challenges you to drive a quirky car carrying a fragile egg. Control speed and inertia across bumpy terrain to keep the egg intact, measure your success by distance, and unlock new cars. It's a test of patience, micro-braking, and serene, focused driving.",
     "image": "/assets/eggy-car/eggy-car-logo.webp",
     "url": "/eggy-car"
+  },
+  "soflo-wheelie-life": {
+    "id": "soflo-wheelie-life",
+    "title": "Soflo Wheelie Life: Balance, Precision, and Stunt Mastery on City Streets",
+    "description": "Test your balance, reflexes, and stunt timing in Soflo Wheelie Life, a physics-driven motorcycle challenge set in vibrant night-city streets. Perform perfect wheelies, collect coins, and master precision control across endless urban arenas. With intuitive controls and realistic physics, every millisecond counts as you chase the longest, smoothest stunt run.",
+    "image": "/assets/soflo-wheelie-life/soflo-wheelie-life-logo.webp",
+    "url": "/soflo-wheelie-life"
   }
 };
 
