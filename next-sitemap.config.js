@@ -34,6 +34,7 @@ module.exports = {
       { loc: '/rocket-fortress', changefreq: 'monthly', priority: 0.9 },
       { loc: '/ragdoll-hit-stickman', changefreq: 'monthly', priority: 0.9 },
       { loc: '/trial-mania', changefreq: 'monthly', priority: 0.9 },
+      { loc: '/orbit-beats', changefreq: 'monthly', priority: 0.9 },
 
     ];
   },

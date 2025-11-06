@@ -104,6 +104,13 @@ export const games: Record<string, Game> = {
     "description": "Master balance, speed, and high-risk stunts! Drive custom motorcycles across five rugged worlds, leveraging realistic 3D physics for precision control. Features Classic Racing, Crazy Stunt Competitions, and deep bike customization.",
     "image": "/assets/trial-mania/trial-mania-logo.webp",
     "url": "/trial-mania"
+  },
+  "orbit-beats": {
+    "id": "orbit-beats",
+    "title": "Orbit Beats: One-Button Dual-Planet Rhythm Challenge",
+    "description": "Master the Zero-Tolerance Beat Art! Control two synchronized planets with a single button, relying on auditory memory and precision timing to navigate complex geometric paths across 28 unique musical worlds.",
+    "image": "/assets/orbit-beats/orbit-beats-logo.webp",
+    "url": "/orbit-beats"
   }
 
 };

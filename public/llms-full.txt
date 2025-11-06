@@ -135,24 +135,24 @@ URL: https://www.cozygame.net/polytrack
 
 ### Eggy Car (Endless Balance & Precision Driving)
 
-This physics-based driving game transforms a simple premise—transporting a fragile egg in a car across rough terrain—into a demanding test of **control, patience, and balance**. Unlike traditional racing, the focus is not on speed, but on continuous, delicate adjustments to maintain egg stability against gravity and momentum.
+This physics-based driving game transforms a simple premise—transporting a fragile egg in a car across rough terrain—into a demanding test of control, patience, and balance. Unlike traditional racing, the focus is not on speed, but on continuous, delicate adjustments to maintain egg stability against gravity and momentum.
 
-Core Gameplay: The game follows an endless loop: **Drive Carefully → Balance Fragile Egg → Collect Coins → Unlock Upgrades.** The terrain becomes progressively steeper and bumpier as distance increases, challenging the player's fine motor control.
+Core Gameplay: The game follows an endless loop: Drive Carefully → Balance Fragile Egg → Collect Coins → Unlock Upgrades. The terrain becomes progressively steeper and bumpier as distance increases, challenging the player's fine motor control.
 
 URL: https://www.cozygame.net/eggy-car
 
 
-### Soflo Wheelie Life (SWL) is a high-fidelity simulation game focused purely on motorcycle wheelie stunts. It transforms the traditional racing experience into an ultimate test of **balance, patience, and micro-control**. The player's objective is not to reach a finish line, but to find and maintain the vehicle's **"balance point"** across endless night-city arenas through delicate throttle control and body lean, achieving the longest and smoothest stunts possible.
+### Soflo Wheelie Life (SWL) is a high-fidelity simulation game focused purely on motorcycle wheelie stunts. It transforms the traditional racing experience into an ultimate test of balance, patience, and micro-control. The player's objective is not to reach a finish line, but to find and maintain the vehicle's "balance point" across endless night-city arenas through delicate throttle control and body lean, achieving the longest and smoothest stunts possible.
 
-The core mechanics are driven by a **high-precision balance physics engine**: every millisecond of throttle adjustment or tilt input affects the vehicle's dynamics in real-time. This grants the game significant depth beyond its friendly, cartoon-styled visuals.
+The core mechanics are driven by a high-precision balance physics engine: every millisecond of throttle adjustment or tilt input affects the vehicle's dynamics in real-time. This grants the game significant depth beyond its friendly, cartoon-styled visuals.
 
-**The Core Gameplay Loop:**
-1.  **Maintain Balance:** Use subtle inputs (W/↑ for throttle, A/← to lean back) to keep the front wheel suspended.
-2.  **Perform Long Stunts:** Hold stability to activate and extend high score multipliers (Combos).
-3.  **Collect Rewards:** Gather coins scattered across the streets during successful runs.
-4.  **Upgrade & Evolve:** Use earnings to unlock new bikes and customization options. Higher-tier vehicles often feature improved stability, rewarding advanced players.
+The Core Gameplay Loop:
+1.  Maintain Balance: Use subtle inputs (W/↑ for throttle, A/← to lean back) to keep the front wheel suspended.
+2.  Perform Long Stunts: Hold stability to activate and extend high score multipliers (Combos).
+3.  Collect Rewards: Gather coins scattered across the streets during successful runs.
+4.  Upgrade & Evolve: Use earnings to unlock new bikes and customization options. Higher-tier vehicles often feature improved stability, rewarding advanced players.
 
-SWL offers a **"Flow State"** experience, highlighting the conquest of self-control. It is perfect for players looking for mastery, precision timing, and infinite replay value.
+SWL offers a "Flow State" experience, highlighting the conquest of self-control. It is perfect for players looking for mastery, precision timing, and infinite replay value.
 
 URL: https://www.cozygame.net/soflo-wheelie-life
 
@@ -161,37 +161,37 @@ URL: https://www.cozygame.net/soflo-wheelie-life
 
 Feel the Thrill of Combat — Equip, Smash, and Conquer the Boss!
 
-**I. Game Overview: Action, Physics, and Endless Challenges**
+I. Game Overview: Action, Physics, and Endless Challenges
 
-Step into the high-octane world of **Ragdoll Hit Stickman**, the definitive action game for fans of stickman fighters and dynamic physics. This game is built around **realistic ragdoll physics** that make every swing, hit, and smash feel incredibly impactful and satisfying.
+Step into the high-octane world of Ragdoll Hit Stickman, the definitive action game for fans of stickman fighters and dynamic physics. This game is built around realistic ragdoll physics that make every swing, hit, and smash feel incredibly impactful and satisfying.
 
 Players are immediately thrust into intense battles, facing foes through numerous challenging levels and culminating in extreme boss fights. With an emphasis on skill and reflexes, Ragdoll Hit Stickman provides an unforgettable action gaming experience where the excitement never stops.
 
-**II. Core Mechanics and Features**
+II. Core Mechanics and Features
 
-1. **Realistic Ragdoll Physics Combat**
-   * **Dynamic Fights:** The core ragdoll mechanics ensure that every combat exchange is dynamic and unique, adding a layer of unpredictability and excitement.
-   * **Satisfying Hits:** Experience the visceral thrill of watching enemies react realistically to slashes, bashes, and powerful weapon impacts.
+1. Realistic Ragdoll Physics Combat
+    Dynamic Fights: The core ragdoll mechanics ensure that every combat exchange is dynamic and unique, adding a layer of unpredictability and excitement.
+    Satisfying Hits: Experience the visceral thrill of watching enemies react realistically to slashes, bashes, and powerful weapon impacts.
 
-2. **Extensive Weapon Arsenal**
-   * **Vast Choice:** Choose from a wide array of weapons, including swords, hammers, and other unique combat tools, allowing for varied play styles.
-   * **Equip Your Hero:** Equip your stickman hero with the best gear to prepare for the relentless action ahead.
+2. Extensive Weapon Arsenal
+    Vast Choice: Choose from a wide array of weapons, including swords, hammers, and other unique combat tools, allowing for varied play styles.
+    Equip Your Hero: Equip your stickman hero with the best gear to prepare for the relentless action ahead.
 
-3. **Progressive Challenge Structure**
-   * **Fun Levels:** Fight your way through many fun and engaging levels designed to test your skills and reflexes.
-   * **Extreme Boss Fights:** Prove your mastery in intense, challenging boss battles that require strategy and quick timing to defeat.
+3. Progressive Challenge Structure
+    Fun Levels: Fight your way through many fun and engaging levels designed to test your skills and reflexes.
+    Extreme Boss Fights: Prove your mastery in intense, challenging boss battles that require strategy and quick timing to defeat.
 
-4. **Hero Customization**
-   * **Awesome Skins:** Customize your stickman hero with a variety of awesome skins, allowing you to personalize your character as you rise to the top.
+4. Hero Customization
+    Awesome Skins: Customize your stickman hero with a variety of awesome skins, allowing you to personalize your character as you rise to the top.
 
-**III. The Action Never Stops**
+III. The Action Never Stops
 
 ### Ragdoll Hit Stickman combines the best elements of stickman games and ragdoll mechanics to deliver a complete action package.
 
-* The gameplay is designed to keep you engaged for hours, offering endless challenges.
-* The excitement is always high as you progress through levels and prepare to beat the boss.
+ The gameplay is designed to keep you engaged for hours, offering endless challenges.
+ The excitement is always high as you progress through levels and prepare to beat the boss.
 
-**Summary:** Ragdoll Hit Stickman is more than just a fight game; it's an action-packed adventure designed for players who love intense action and challenging gameplay. Equip your weapons, dive into the fun physics-based gameplay, and feel the satisfaction of victory.
+Summary: Ragdoll Hit Stickman is more than just a fight game; it's an action-packed adventure designed for players who love intense action and challenging gameplay. Equip your weapons, dive into the fun physics-based gameplay, and feel the satisfaction of victory.
 
 URL: https://www.cozygame.net/ragdoll-hit-stickman
 
@@ -200,75 +200,101 @@ URL: https://www.cozygame.net/ragdoll-hit-stickman
 
 Launch Holy Rockets. Crush the Infernal Gate. Rise Again Stronger.
 
-**I. Game Overview: The Fusion of Reflex and Progression**
+I. Game Overview: The Fusion of Reflex and Progression
 
-Rocket Fortress fuses the satisfying rhythm of a high-speed clicker with the visual drama of a hell-blazing rocket siege. Every tap launches a holy rocket into waves of grotesque demons, and every explosion pushes you closer to conquering the Gates of Hell. This is where **reflex meets progression**—a fast, fierce, and endlessly upgradeable experience where every explosion fuels your power curve.
+Rocket Fortress fuses the satisfying rhythm of a high-speed clicker with the visual drama of a hell-blazing rocket siege. Every tap launches a holy rocket into waves of grotesque demons, and every explosion pushes you closer to conquering the Gates of Hell. This is where reflex meets progression—a fast, fierce, and endlessly upgradeable experience where every explosion fuels your power curve.
 
-**II. Core Gameplay Loop: Tap, Destroy, Upgrade, Ascend**
+II. Core Gameplay Loop: Tap, Destroy, Upgrade, Ascend
 
 The heartbeat of Rocket Fortress is its tight, four-step progression cycle, designed for instant reward and long-term mastery:
 
-1.  **Tap to Fire:** Rapidly click or press Space to unleash volleys of guided rockets, providing instant visual and audio impact feedback.
-2.  **Slay and Collect:** Defeated demons drop Gold (common upgrades), Gems (rare blueprints), and Energy Cores (fortress evolutions).
-3.  **Upgrade and Invest:** Spend resources to enhance rocket damage, recruit passive DPS mercenaries, or amplify global stats via Fortress Power Modules.
-4.  **Return Stronger:** Ascend or re-enter higher-tier stages, facing tougher bosses while leveraging meta-progression for exponential growth.
+1.  Tap to Fire: Rapidly click or press Space to unleash volleys of guided rockets, providing instant visual and audio impact feedback.
+2.  Slay and Collect: Defeated demons drop Gold (common upgrades), Gems (rare blueprints), and Energy Cores (fortress evolutions).
+3.  Upgrade and Invest: Spend resources to enhance rocket damage, recruit passive DPS mercenaries, or amplify global stats via Fortress Power Modules.
+4.  Return Stronger: Ascend or re-enter higher-tier stages, facing tougher bosses while leveraging meta-progression for exponential growth.
 
-**III. Strategic Investment Depth**
+III. Strategic Investment Depth
 
-Rocket Fortress moves beyond simple idling, offering **Strategic Investment Depth** with long-term implications:
+Rocket Fortress moves beyond simple idling, offering Strategic Investment Depth with long-term implications:
 
-* **Rocket Damage:** Focuses on immediate impact (active output).
-* **Mercenaries:** Provides passive DPS and resource generation (sustained income).
-* **Fortress Power Modules:** Grants global stat amplification and synergy (multiplicative scaling).
+ Rocket Damage: Focuses on immediate impact (active output).
+ Mercenaries: Provides passive DPS and resource generation (sustained income).
+ Fortress Power Modules: Grants global stat amplification and synergy (multiplicative scaling).
 
 Strategic resource allocation (Gold for routine upgrades, Gems for high-tier blueprints, Cores for fortress evolution) is crucial for maintaining momentum and preventing "flatline spending."
 
-**IV. Visual and Thematic Identity**
+IV. Visual and Thematic Identity
 
-The game’s aesthetic is **"holy-industrial,"** embracing the contrast of light vs. dark—gleaming holy rockets streaking through the smoky crimson of Hell. The fortress stands as humanity’s last bastion, reinforced by cinematic upgrades and surrounded by high-energy particle effects from radiant halo explosions.
+The game’s aesthetic is "holy-industrial," embracing the contrast of light vs. dark—gleaming holy rockets streaking through the smoky crimson of Hell. The fortress stands as humanity’s last bastion, reinforced by cinematic upgrades and surrounded by high-energy particle effects from radiant halo explosions.
 
-**V. Failure as Progress — Every Defeat is Ignition**
+V. Failure as Progress — Every Defeat is Ignition
 
-There is no true failure, only recalibration. When overwhelmed, players retreat, upgrade, and relaunch. Defeat only resets the stage loop, but all core upgrades and resources persist. Critically, each reset feeds your **meta-progression** through retained power cores and unlocked modules, ensuring every loss just makes you stronger for the next launch.
+There is no true failure, only recalibration. When overwhelmed, players retreat, upgrade, and relaunch. Defeat only resets the stage loop, but all core upgrades and resources persist. Critically, each reset feeds your meta-progression through retained power cores and unlocked modules, ensuring every loss just makes you stronger for the next launch.
 
 URL: https://www.cozygame.net/rocket-fortress
 
 
 Key Features:
-* **Precision Physics Core:** The egg is a free-body object; acceleration/braking directly affects its inertia. Smooth, gentle inputs are critical.
-* **Endless Distance Goal:** No finish line or checkpoints; success is measured solely by the maximum distance achieved in a single run.
-* **Progression System:** Collect coins during runs. Spend coins to unlock new cars (with varied handling/stability traits) and new visual tracks/themes.
-* **Calm Challenge:** The experience blends serene visuals and gentle physics with an addictive, unforgiving challenge, often described as "meditative driving."
-* **Accessibility:** Simple two-button/tap-to-drive controls make it easy to learn but hard to master across all platforms (Mobile/Web).
+ Precision Physics Core: The egg is a free-body object; acceleration/braking directly affects its inertia. Smooth, gentle inputs are critical.
+ Endless Distance Goal: No finish line or checkpoints; success is measured solely by the maximum distance achieved in a single run.
+ Progression System: Collect coins during runs. Spend coins to unlock new cars (with varied handling/stability traits) and new visual tracks/themes.
+ Calm Challenge: The experience blends serene visuals and gentle physics with an addictive, unforgiving challenge, often described as "meditative driving."
+ Accessibility: Simple two-button/tap-to-drive controls make it easy to learn but hard to master across all platforms (Mobile/Web).
 
-Experience: Highly addictive gameplay rewarding surgical control and rhythmic driving. Players must master the art of **Micro-Braking** on descents and **Gradual Throttle** on inclines to prevent the egg from bouncing out or cracking forward. Ideal for players seeking self-improvement through refined skill and concentration.
+Experience: Highly addictive gameplay rewarding surgical control and rhythmic driving. Players must master the art of Micro-Braking on descents and Gradual Throttle on inclines to prevent the egg from bouncing out or cracking forward. Ideal for players seeking self-improvement through refined skill and concentration.
 
 URL: https://www.cozygame.net/eggy-car
 
 
 ### Trial Mania: Extreme Off-Road Physics Challenge - Detailed Information
 
-**Genre:** Motorcycle Racing, Stunt Driving, Physics-Based Trials Game
-**Target Audience:** Hardcore racing enthusiasts, stunt game fans, players seeking realistic physics and deep progression.
+Genre: Motorcycle Racing, Stunt Driving, Physics-Based Trials Game
+Target Audience: Hardcore racing enthusiasts, stunt game fans, players seeking realistic physics and deep progression.
 
-**Core Selling Points:**
-* **Realistic 3D Physics and Graphics:** Provides an immersive experience where precise throttle control and weight shifting are crucial for success on rugged, obstacle-filled terrain.
-* **High-Risk Stunt Scoring System:** Stunts are integral to progression, with higher-risk maneuvers (backflips, wheelies) yielding significant points and financial rewards, encouraging skillful and aggressive play.
-* **Extensive Progression System:** Features a selection of over a dozen high-performance bikes, each customizable and upgradable (speed, grip, agility) to enhance performance for increasingly difficult challenges.
-* **Diverse Content & Environments:** Players explore 5 distinct worlds (e.g., seaside tracks, snowy slopes, desert safaris), with some sources citing over 100+ unique levels designed to push player skills to the limit.
+Core Selling Points:
+ Realistic 3D Physics and Graphics: Provides an immersive experience where precise throttle control and weight shifting are crucial for success on rugged, obstacle-filled terrain.
+ High-Risk Stunt Scoring System: Stunts are integral to progression, with higher-risk maneuvers (backflips, wheelies) yielding significant points and financial rewards, encouraging skillful and aggressive play.
+ Extensive Progression System: Features a selection of over a dozen high-performance bikes, each customizable and upgradable (speed, grip, agility) to enhance performance for increasingly difficult challenges.
+ Diverse Content & Environments: Players explore 5 distinct worlds (e.g., seaside tracks, snowy slopes, desert safaris), with some sources citing over 100+ unique levels designed to push player skills to the limit.
 
-**Gameplay Features:**
-1.  **Multiple Game Modes:** Includes **Classic Off-Road Racing** (focused on speed and time mastery) and **Crazy Stunt Competitions** (focused on high-scoring, creative maneuvers).
-2.  **Obstacle Navigation:** Courses are filled with extreme challenges like steep ramps, rolling balls, fire hazards, and complex structural elements that require perfect timing and balance.
-3.  **Failure Conditions:** The player fails a run by falling off the bike, crashing into obstacles, or running out of time, demanding constant attention to physics and control.
-4.  **Customization:** Coins earned from races and stunts can be used to upgrade bikes, improving essential attributes for better handling and maneuverability, which directly impacts stunt performance.
+Gameplay Features:
+1.  Multiple Game Modes: Includes Classic Off-Road Racing (focused on speed and time mastery) and Crazy Stunt Competitions (focused on high-scoring, creative maneuvers).
+2.  Obstacle Navigation: Courses are filled with extreme challenges like steep ramps, rolling balls, fire hazards, and complex structural elements that require perfect timing and balance.
+3.  Failure Conditions: The player fails a run by falling off the bike, crashing into obstacles, or running out of time, demanding constant attention to physics and control.
+4.  Customization: Coins earned from races and stunts can be used to upgrade bikes, improving essential attributes for better handling and maneuverability, which directly impacts stunt performance.
 
-**Development/Availability:**
-* **Developer:** hikBOO Studios (as per some app store listings).
-* **Platforms:** Available on Android and iOS (App Store/Google Play).
+Development/Availability:
+ Developer: hikBOO Studios (as per some app store listings).
+ Platforms: Available on Android and iOS (App Store/Google Play).
 
 
 URL: https://www.cozygame.net/trial-mania
+
+
+### Orbit Beats: One-Button Dual-Planet Rhythm Challenge - Detailed Information
+
+Genre: Rhythm Game, Precision Timing, Hardcore Arcade
+Target Audience: Rhythm game enthusiasts (fans of ADOFAI, osu!), players seeking high difficulty and skill mastery, competitive score chasers.
+Release Date: Fall 2025
+
+Core Selling Points:
+ Dual-Orbit Precision: Players synchronize two orbiting planets (inner and outer) with a single button press. This dual-orbit system requires the "Balance Art" of timing—hitting the beat to satisfy the path requirements of both orbits simultaneously.
+ Auditory Memory Focus: The gameplay is zero-tolerance, forcing players to abandon reliance on visual cues and develop deep Auditory Memory. Missing a beat results in immediate track restart, amplifying the skill ceiling.
+ Content Depth: Features 28 unique musical worlds, categorized into: 12 Main Worlds (progression), 8 Extra Worlds (high-score trials/experimental rhythms), 5 Cooperative Worlds, and 3 ultimate Challenge Worlds.
+ UX for Purists: Includes a critical Custom Audio Calibration tool to eliminate device latency, ensuring that all failures are purely due to rhythmic error, not technical lag.
+
+Gameplay Mechanics & Features:
+1.  Minimalist Control: Only one button (mouse click, spacebar, or tap) is used for all actions, making the input simple but the mastery profoundly difficult.
+2.  Geometric Paths: The music path is composed of geometric shapes (squares, triangles, octagons) which act as visual indicators, each signifying a different type of rhythmic pattern (e.g., triangles for sharp, quick beats).
+3.  Failure Mechanism: Any premature or delayed button press results in instant collision of the planets, halting the music and requiring the player to restart the current track from the very beginning.
+4.  Visuals & Sound: Hand-drawn graphics bring each world to life, and the variety of music genres keeps the experience fresh across all 28 worlds.
+
+Strategy Insight:
+ Core Strategy: Players must listen for the underlying pulse and accents of the music rather than watching the approaching geometry.
+ Balance Art: Success hinges on understanding that the outer orbit requires a longer path to be covered than the inner orbit, demanding precise timing that accommodates this difference.
+
+
+URL: https://www.cozygame.net/orbit-beats
 
 
 

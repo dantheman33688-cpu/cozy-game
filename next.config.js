@@ -61,6 +61,10 @@ const nextConfig = {
       {
         source: '/trial-mania',
         destination: '/game/trial-mania/index.html',
+      },
+      {
+        source: '/orbit-beats',
+        destination: '/game/orbit-beats/index.html',
       }
     ]
   }
